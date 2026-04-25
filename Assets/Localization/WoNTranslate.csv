@@ -1,0 +1,73 @@
+Key,English (en),Spanish (Spain) (es-ES)
+G001,Start Game,Iniciar Juego
+G002,Continue,Continuar
+G003,Settings,Ajustes
+G004,Exit Game,Salir del Juego
+G005,Apply,Aplicar
+G006,Back,Volver
+G007,Restart,Reiniciar
+G008,Game Over,Fin de la Partida
+G009,Loading... {0}%,Cargando... {0}%
+G010,Press E to interact,Pulsa E para interactuar
+G011,Press E to pick up the flashlight,Pulsa E para recoger la linterna
+G012,Press E to open the door,Pulsa E para abrir la puerta
+G013,Press E to interact with {0},Pulsa E para interactuar con {0}
+G014,Press E to view {0}'s story,Pulsa E para ver la historia de {0}
+G015,Press E to close {0}'s story,Pulsa E para cerrar la historia de {0}
+G016,You need to find a light source...,Necesitas encontrar una fuente de luz...
+G017,{0} Statue Collected!,¡Estatua de {0} recogida!
+G018,Use &lt;color=#FFD700>WASD&lt;/color> to move,Usa &lt;color=#FFD700>WASD&lt;/color> para moverte
+G019,Press &lt;color=#FFD700>SPACE&lt;/color> to jump,Pulsa &lt;color=#FFD700>ESPACIO&lt;/color> para saltar
+G020,&lt;color=#FF0000>RUN!&lt;/color> Press &lt;color=#FFD700>SHIFT&lt;/color> to sprint and escape the house,&lt;color=#FF0000>¡CORRE!&lt;/color> Pulsa &lt;color=#FFD700>SHIFT&lt;/color> para esprintar y escapar de la casa
+G021,Learn to lock onto your target:\nPress &lt;color=#FFD700>Q&lt;/color> to focus on a nearby enemy.\n\nKeeping them in your sights will make combat easier. Focus and don't lose track of them!\n\n&lt;size=80%>[Press E to continue]&lt;/size>,Aprende a fijar tu objetivo:\nPulsa &lt;color=#FFD700>Q&lt;/color> para centrarte en un enemigo cercano.\n\nMantenerlo en tu mira facilitará el combate. ¡Concéntrate y no lo pierdas de vista!\n\n&lt;size=80%>[Pulsa E para continuar]&lt;/size>
+G022,"Now that you can lock onto enemies, take the next step:\nHold &lt;color=#FFD700>Right Click&lt;/color> to aim precisely at the locked-on enemy.\n\nAiming is key to victory!\n\n&lt;size=80%>[Press E to continue]&lt;/size>","Ahora que puedes fijar enemigos, da el siguiente paso:\nMantén &lt;color=#FFD700>Click Derecho&lt;/color> para apuntar con precisión al enemigo fijado.\n\n¡Apuntar es clave para la victoria!\n\n&lt;size=80%>[Pulsa E para continuar]&lt;/size>"
+G023,Your flashlight is your best weapon:\nPress &lt;color=#FFD700>Left Click&lt;/color> to use it on the enemy.\n\nEnemies fear the light... Submit them to the glare! The flashlight recharges by itself when turned off.\n\n&lt;size=80%>[Press E to continue]&lt;/size>,Tu linterna es tu mejor arma:\nPulsa &lt;color=#FFD700>Click Izquierdo&lt;/color> para usarla sobre el enemigo.\n\nLos enemigos temen la luz... ¡Somételos al resplandor! La linterna se recarga sola al apagarse.\n\n&lt;size=80%>[Pulsa E para continuar]&lt;/size>
+G024,Important Information:\nYour flashlight consumes energy when used. It will automatically recharge when turned off.\n\nManage it carefully!\n\n&lt;size=80%>[Press E to continue]&lt;/size>,Información Importante:\nTu linterna consume energía al usarse. Se recargará automáticamente al estar apagada.\n\n¡Adminístrala con cuidado!\n\n&lt;size=80%>[Pulsa E para continuar]&lt;/size>
+G025,"Move stealthily:\nPress &lt;color=#FFD700>C&lt;/color> to crouch.\n\nHide your presence, evade hostile gazes, and approach undetected. Sometimes, shadows are your best allies.\n\n&lt;size=80%>[Press E to continue]&lt;/size>","Muévete con sigilo:\nPulsa &lt;color=#FFD700>C&lt;/color> para agacharte.\n\nOculta tu presencia, evade miradas hostiles y acércate sin ser detectado. A veces, las sombras son tus mejores aliadas.\n\n&lt;size=80%>[Pulsa E para continuar]&lt;/size>"
+G026,Go to the central fountain,Ve a la fuente central
+G027,Use the environment to hide,Usa el entorno para esconderte
+G028,Find the four animal statues,Encuentra las cuatro estatuas de animales
+G029,Return to the fountain... carefully!,Vuelve a la fuente... ¡con cuidado!
+G030,Bear,Oso
+G031,Mouse,Ratón
+G032,Dog,Perro
+G033,Raccoon,Mapache
+G034,Master Volume,Volumen General
+G035,Music Volume,Volumen Música
+G036,Sound Volume,Volumen Sonido
+G037,Dialogue Volume,Volumen Diálogos
+G038,Display Mode,Modo Pantalla
+G039,Resolution,Resolución
+G040,Quality,Calidad
+G041,VSync,Sinc. Vertical
+G042,FPS Limit,Límite FPS
+G043,Texture Quality,Calidad Texturas
+G044,Shadow Quality,Calidad Sombras
+G045,Anti-Aliasing,Anti-Aliasing
+G046,Ambient Occlusion,Oclusión Ambiental
+G047,Bloom,Bloom
+G048,Motion Blur,Desenfoque Mov.
+G049,Sensitivity,Sensibilidad
+G050,Invert Mouse Y,Invertir Eje Y
+G051,Fullscreen,Pantalla Completa
+G052,Borderless,Sin Bordes
+G053,Windowed,Ventana
+G054,Unlimited,Sin Límite
+G055,High,Alta
+G056,Mid,Media
+G057,Low,Baja
+G058,Very low,Muy baja
+G059,Off,No
+G060,On,Sí
+G061,Locked On,Fijado
+G062,Saving...,Guardando...
+G063,Game Saved,Partida Guardada
+G064,"Approach, little ember in the perpetual night. You have gathered the echoes of this valley, the petrified memories that weep in silence.","Acércate, pequeña brasa en la noche perpetua. Has reunido los ecos de este valle, los recuerdos petrificados que lloran en silencio."
+G065,"You feel the weight of the void, don't you? The unnatural stillness that chokes the laughter and whispers of those you call home. Umbra... a hungry shadow, has devoured their will, leaving only husks wandering in the penumbra.","Sientes el peso del vacío, ¿verdad? La quietud antinatural que ahoga las risas y los susurros de aquellos a quienes llamas hogar. Umbra... una sombra hambrienta, ha devorado su voluntad, dejando solo cáscaras vagando en la penumbra."
+G066,"But you... you shine differently. A spark of the ancient light endures within you, the same that wove life into this forest before the darkness claimed its dominion. That is why the shadow did not completely break you.","Pero tú... tú brillas diferente. Una chispa de la luz ancestral perdura en ti, la misma que tejió la vida en este bosque antes de que la oscuridad reclamara su dominio. Por eso la sombra no te quebró del todo."
+G067,"The human heart, what a complex tapestry! It weaves the purest joy and the deepest sorrow with the same threads. I know that mourning tightens your throat, that every shadow reminds you of a loss. It is the price of loving in an ephemeral world.","¡El corazón humano, qué tapiz tan complejo! Teje la alegría más pura y la pena más profunda con los mismos hilos. Sé que el duelo aprieta tu garganta, que cada sombra te recuerda una pérdida. Es el precio de amar en un mundo efímero."
+G068,"But do not succumb to despair. You are the fulcrum of the balance, child of light and shadow. Within you, courage must dance alongside fear, determination against doubt. For Umbra feeds on imbalance, on the extremes that consume.","Pero no sucumbas a la desesperación. Eres el fulcro del equilibrio, hijo de luz y sombra. En ti, el valor debe danzar junto al miedo, la determinación contra la duda. Pues Umbra se alimenta del desequilibrio, de los extremos que consumen."
+G069,"The light you carried, the little guide... it was a fragment of my essence, entrusted to this world. Now, fused with you, it is yours to wield. Not as a weapon of wrath, but as a beacon of temperance.","La luz que portabas, la pequeña guía... era un fragmento de mi esencia, confiado a este mundo. Ahora, fusionada contigo, es tuya para empuñarla. No como arma de ira, sino como faro de templanza."
+G070,"Your path begins now. You must face the root of this corruption, the pulsating heart of Umbra. It will not be easy. The darkness will try to seduce you, to reflect your own fears.","Tu senda comienza ahora. Debes enfrentar la raíz de esta corrupción, el corazón palpitante de Umbra. No será fácil. La oscuridad intentará seducirte, reflejar tus propios miedos."
+G071,"Seek balance in every step. Remember the lost, not with the bitterness of the end, but with the warmth of their existence. That memory is your strongest shield.","Busca el equilibrio en cada paso. Recuerda a los perdidos, no con la amargura del fin, sino con la calidez de su existencia. Ese recuerdo es tu escudo más fuerte."
+G072,"Go now. Head to the Hidden Forest Clearing, where the trees whisper ancestral secrets. There, the path will become clearer. I... I shall await you where light and shadow converge.","Ve ahora. Dirígete al Claro Oculto del Bosque, donde los árboles susurran secretos ancestrales. Allí, el camino se volverá más claro. Yo... te aguardaré donde convergen la luz y la sombra."

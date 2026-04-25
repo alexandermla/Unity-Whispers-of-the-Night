@@ -1,0 +1,2474 @@
+"Assets/Materials/Textura_Root/Root1/raiz1_ra\303\255z1_BaseMap.png"
+"Assets/Materials/Textura_Root/Root1/raiz1_ra\303\255z1_BaseMap.png.meta"
+"Assets/Materials/Textura_Root/Root1/raiz1_ra\303\255z1_MaskMap.png"
+"Assets/Materials/Textura_Root/Root1/raiz1_ra\303\255z1_MaskMap.png.meta"
+"Assets/Materials/Textura_Root/Root1/raiz1_ra\303\255z1_Normal.png"
+"Assets/Materials/Textura_Root/Root1/raiz1_ra\303\255z1_Normal.png.meta"
+"Assets/Materials/Textura_Root/Root2/raiz2_ra\303\255z2_BaseMap.png"
+"Assets/Materials/Textura_Root/Root2/raiz2_ra\303\255z2_BaseMap.png.meta"
+"Assets/Materials/Textura_Root/Root2/raiz2_ra\303\255z2_MaskMap.png"
+"Assets/Materials/Textura_Root/Root2/raiz2_ra\303\255z2_MaskMap.png.meta"
+"Assets/Materials/Textura_Root/Root2/raiz2_ra\303\255z2_Normal.png"
+"Assets/Materials/Textura_Root/Root2/raiz2_ra\303\255z2_Normal.png.meta"
+"Assets/Materials/Textura_Root/Root3/raiz3_ra\303\255z3_BaseMap.png"
+"Assets/Materials/Textura_Root/Root3/raiz3_ra\303\255z3_BaseMap.png.meta"
+"Assets/Materials/Textura_Root/Root3/raiz3_ra\303\255z3_MaskMap.png"
+"Assets/Materials/Textura_Root/Root3/raiz3_ra\303\255z3_MaskMap.png.meta"
+"Assets/Materials/Textura_Root/Root3/raiz3_ra\303\255z3_Normal.png"
+"Assets/Materials/Textura_Root/Root3/raiz3_ra\303\255z3_Normal.png.meta"
+"Assets/Materials/Textura_Root/Root4/raiz4_ra\303\255z4_BaseMap.png"
+"Assets/Materials/Textura_Root/Root4/raiz4_ra\303\255z4_BaseMap.png.meta"
+"Assets/Materials/Textura_Root/Root4/raiz4_ra\303\255z4_MaskMap.png"
+"Assets/Materials/Textura_Root/Root4/raiz4_ra\303\255z4_MaskMap.png.meta"
+"Assets/Materials/Textura_Root/Root4/raiz4_ra\303\255z4_Normal.png"
+"Assets/Materials/Textura_Root/Root4/raiz4_ra\303\255z4_Normal.png.meta"
+"Assets/Materials/Textura_Root/Root5/raiz5_ra\303\255z5_BaseMap.png"
+"Assets/Materials/Textura_Root/Root5/raiz5_ra\303\255z5_BaseMap.png.meta"
+"Assets/Materials/Textura_Root/Root5/raiz5_ra\303\255z5_MaskMap.png"
+"Assets/Materials/Textura_Root/Root5/raiz5_ra\303\255z5_MaskMap.png.meta"
+"Assets/Materials/Textura_Root/Root5/raiz5_ra\303\255z5_Normal.png"
+"Assets/Materials/Textura_Root/Root5/raiz5_ra\303\255z5_Normal.png.meta"
+"Assets/Materials/Textura_Root/Root7/raiz7_ra\303\255z7_BaseMap.png"
+"Assets/Materials/Textura_Root/Root7/raiz7_ra\303\255z7_BaseMap.png.meta"
+"Assets/Materials/Textura_Root/Root7/raiz7_ra\303\255z7_MaskMap.png"
+"Assets/Materials/Textura_Root/Root7/raiz7_ra\303\255z7_MaskMap.png.meta"
+"Assets/Materials/Textura_Root/Root7/raiz7_ra\303\255z7_Normal.png"
+"Assets/Materials/Textura_Root/Root7/raiz7_ra\303\255z7_Normal.png.meta"
+"Assets/Materials/Textura_Root/Root9/raiz9_ra\303\255z9_BaseMap.png"
+"Assets/Materials/Textura_Root/Root9/raiz9_ra\303\255z9_BaseMap.png.meta"
+"Assets/Materials/Textura_Root/Root9/raiz9_ra\303\255z9_MaskMap.png"
+"Assets/Materials/Textura_Root/Root9/raiz9_ra\303\255z9_MaskMap.png.meta"
+"Assets/Materials/Textura_Root/Root9/raiz9_ra\303\255z9_Normal.png"
+"Assets/Materials/Textura_Root/Root9/raiz9_ra\303\255z9_Normal.png.meta"
+"Assets/UiStuff/Bot\303\263n Exit PNG.png"
+"Assets/UiStuff/Bot\303\263n Exit PNG.png.meta"
+"Assets/UiStuff/Bot\303\263n Firefly PNG.png"
+"Assets/UiStuff/Bot\303\263n Firefly PNG.png.meta"
+"Assets/UiStuff/Bot\303\263n Play PNG.png"
+"Assets/UiStuff/Bot\303\263n Play PNG.png.meta"
+"Assets/UiStuff/Bot\303\263n Settings PNG.png"
+"Assets/UiStuff/Bot\303\263n Settings PNG.png.meta"
+"Assets/UiStuff/Controls Solo T\303\255tulo PNG.png"
+"Assets/UiStuff/Controls Solo T\303\255tulo PNG.png.meta"
+"Assets/UiStuff/Pause Solo T\303\255tulo PNG.png"
+"Assets/UiStuff/Pause Solo T\303\255tulo PNG.png.meta"
+"Assets/UiStuff/Portada UI Solo T\303\255tulo PNG.png"
+"Assets/UiStuff/Portada UI Solo T\303\255tulo PNG.png.meta"
+"Assets/UiStuff/Rat\303\263n1.png"
+"Assets/UiStuff/Rat\303\263n1.png.meta"
+"Assets/UiStuff/Settings Solo T\303\255tulo PNG.png"
+"Assets/UiStuff/Settings Solo T\303\255tulo PNG.png.meta"
+"Assets/VFX/Effects/Animaci\303\263n-inicio-WOT-Sonido.wav"
+"Assets/VFX/Effects/Animaci\303\263n-inicio-WOT-Sonido.wav.meta"
+"Assets/VideoAnim/Animaci\303\263n inicio WOT Sonido.mp4"
+"Assets/VideoAnim/Animaci\303\263n inicio WOT Sonido.mp4.meta"
+.gitignore
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+.vsconfig
+Assets/AddressableAssetsData.meta
+Assets/ALP_Assets.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground001.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground001.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground001_MaskMap.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground001_MaskMap.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground002.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground002.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground002_MaskMap.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground002_MaskMap.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground003.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground003.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground003_MaskMap.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground003_MaskMap.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground004.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground004.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground004_MaskMap.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground004_MaskMap.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground005.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground005.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground005_MaskMap.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground005_MaskMap.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground006.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground006.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground006_MaskMap.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground006_MaskMap.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Sky.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Sky.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Terrain_Old.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Terrain_Old.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Terrain_Standart.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Terrain_Standart.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/Library.unity
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/Library.unity.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/Scene.unity
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/Scene.unity.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/TerrainDATA.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/TerrainDATA/Terrain.asset
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/TerrainDATA/Terrain.asset.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground001.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground001.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground002.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground002.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground003.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground003.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground004.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground004.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground005.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground005.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground006.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground006.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_S.png.meta
+Assets/Animations.meta
+Assets/Animations/Diosa.meta
+Assets/Animations/Diosa/DiosaAnim.controller
+Assets/Animations/Diosa/DiosaAnim.controller.meta
+Assets/Animations/Enemy1.meta
+Assets/Animations/Enemy1/Death.anim
+Assets/Animations/Enemy1/Death.anim.meta
+Assets/Animations/Enemy1/Enemy1.controller
+Assets/Animations/Enemy1/Enemy1.controller.meta
+Assets/Animations/Enemy1/Hit.anim
+Assets/Animations/Enemy1/Hit.anim.meta
+Assets/Animations/Enemy1/Idle.anim
+Assets/Animations/Enemy1/Idle.anim.meta
+Assets/Animations/Enemy1/Run.anim
+Assets/Animations/Enemy1/Run.anim.meta
+Assets/Animations/Enemy1/Walk.anim
+Assets/Animations/Enemy1/Walk.anim.meta
+Assets/Animations/Enemy2.meta
+Assets/Animations/Enemy2/Attack_Enemy2.anim
+Assets/Animations/Enemy2/Attack_Enemy2.anim.meta
+Assets/Animations/Enemy2/AttackAnim.anim
+Assets/Animations/Enemy2/AttackAnim.anim.meta
+Assets/Animations/Enemy2/Dead_Enemy2.anim
+Assets/Animations/Enemy2/Dead_Enemy2.anim.meta
+Assets/Animations/Enemy2/DeadAnim.anim
+Assets/Animations/Enemy2/DeadAnim.anim.meta
+Assets/Animations/Enemy2/Enemy2.controller
+Assets/Animations/Enemy2/Enemy2.controller.meta
+Assets/Animations/Enemy2/IDLE.anim
+Assets/Animations/Enemy2/IDLE.anim.meta
+Assets/Animations/Enemy2/IDLE_Enemy2.anim
+Assets/Animations/Enemy2/IDLE_Enemy2.anim.meta
+Assets/Animations/Enemy2/NewEnemies.meta
+Assets/Animations/Enemy2/NewEnemies/Goofy Running.fbx
+Assets/Animations/Enemy2/NewEnemies/Goofy Running.fbx.meta
+Assets/Animations/Enemy2/NewEnemies/ShyEnemy.controller
+Assets/Animations/Enemy2/NewEnemies/ShyEnemy.controller.meta
+Assets/Animations/Enemy2/NewEnemies/Surprised.fbx
+Assets/Animations/Enemy2/NewEnemies/Surprised.fbx.meta
+Assets/Animations/Enemy2/NewEnemies/SurpriseShy.anim
+Assets/Animations/Enemy2/NewEnemies/SurpriseShy.anim.meta
+Assets/Animations/Enemy2/Run_Enemy2.anim
+Assets/Animations/Enemy2/Run_Enemy2.anim.meta
+Assets/Animations/Enemy2/SleepIdle.anim
+Assets/Animations/Enemy2/SleepIdle.anim.meta
+Assets/Animations/Enemy2/Sleeping Idle.fbx
+Assets/Animations/Enemy2/Sleeping Idle.fbx.meta
+Assets/Animations/Enemy2/SleepingEnemy.controller
+Assets/Animations/Enemy2/SleepingEnemy.controller.meta
+Assets/Animations/Enemy2/Walk_Enemy2.anim
+Assets/Animations/Enemy2/Walk_Enemy2.anim.meta
+Assets/Animations/Enemy2/WalkAnim.anim
+Assets/Animations/Enemy2/WalkAnim.anim.meta
+Assets/Animations/Enemy3.meta
+Assets/Animations/Enemy3/Enemy3.controller
+Assets/Animations/Enemy3/Enemy3.controller.meta
+Assets/Animations/Player.meta
+Assets/Animations/Player/Armature_@Jump.anim
+Assets/Animations/Player/Armature_@Jump.anim.meta
+Assets/Animations/Player/Armature_@Run.anim
+Assets/Animations/Player/Armature_@Run.anim.meta
+Assets/Animations/Player/Armature_@walk.anim
+Assets/Animations/Player/Armature_@walk.anim.meta
+Assets/Animations/Player/Armature_@walk_crouch.anim
+Assets/Animations/Player/Armature_@walk_crouch.anim.meta
+Assets/Animations/Player/Player.controller
+Assets/Animations/Player/Player.controller.meta
+Assets/Fantasy Skybox FREE.meta
+Assets/Grass And Moss Decals Pack.meta
+Assets/HDRPDefaultResources.meta
+Assets/Hovl Studio.meta
+Assets/Localization.meta
+Assets/Localization/Locales.meta
+Assets/Localization/Locales/English (en).asset
+Assets/Localization/Locales/English (en).asset.meta
+Assets/Localization/Locales/Spanish (Spain) (es-ES).asset
+Assets/Localization/Locales/Spanish (Spain) (es-ES).asset.meta
+Assets/Localization/Localization Settings.asset
+Assets/Localization/Localization Settings.asset.meta
+Assets/Localization/Tabla.meta
+Assets/Localization/Tabla/Tabla1 Shared Data.asset
+Assets/Localization/Tabla/Tabla1 Shared Data.asset.meta
+Assets/Localization/Tabla/Tabla1.asset
+Assets/Localization/Tabla/Tabla1.asset.meta
+Assets/Localization/Tabla/Tabla1_en.asset
+Assets/Localization/Tabla/Tabla1_en.asset.meta
+Assets/Localization/Tabla/Tabla1_es-ES.asset
+Assets/Localization/Tabla/Tabla1_es-ES.asset.meta
+Assets/Localization/Tabla1.csv
+Assets/Localization/Tabla1.csv.meta
+Assets/Localization/WoNTranslate.csv
+Assets/Localization/WoNTranslate.csv.meta
+Assets/Materials.meta
+Assets/Materials/Arm.mat
+Assets/Materials/Arm.mat.meta
+Assets/Materials/Base_Mat.mat
+Assets/Materials/Base_Mat.mat.meta
+Assets/Materials/Door.mat
+Assets/Materials/Door.mat.meta
+Assets/Materials/enemigo_14_low_enemigo_14_BaseMap.png
+Assets/Materials/enemigo_14_low_enemigo_14_BaseMap.png.meta
+Assets/Materials/enemigo_14_low_enemigo_14_Normal.png
+Assets/Materials/enemigo_14_low_enemigo_14_Normal.png.meta
+Assets/Materials/Enemy_Mat.mat
+Assets/Materials/Enemy_Mat.mat.meta
+Assets/Materials/Enemy1_Mat.mat
+Assets/Materials/Enemy1_Mat.mat.meta
+Assets/Materials/FadeOut.mat
+Assets/Materials/FadeOut.mat.meta
+Assets/Materials/Light_Mat.mat
+Assets/Materials/Light_Mat.mat.meta
+Assets/Materials/LimitWord_Mat.mat
+Assets/Materials/LimitWord_Mat.mat.meta
+Assets/Materials/MaterialDecals.meta
+Assets/Materials/MaterialDecals/Leaves.mat
+Assets/Materials/MaterialDecals/Leaves.mat.meta
+Assets/Materials/MaterialEnemy1.meta
+Assets/Materials/MaterialEnemy1/DissolveEnemy1.shadergraph
+Assets/Materials/MaterialEnemy1/DissolveEnemy1.shadergraph.meta
+Assets/Materials/MaterialEnemy1/Enemy1.mat
+Assets/Materials/MaterialEnemy1/Enemy1.mat.meta
+Assets/Materials/MaterialEnemy1/VFX_DissolveEnemy1.vfx
+Assets/Materials/MaterialEnemy1/VFX_DissolveEnemy1.vfx.meta
+Assets/Materials/MaterialEnemy2.meta
+Assets/Materials/MaterialEnemy2/Dissolve.shadergraph
+Assets/Materials/MaterialEnemy2/Dissolve.shadergraph.meta
+Assets/Materials/MaterialEnemy2/Enemy2 1.mat
+Assets/Materials/MaterialEnemy2/Enemy2 1.mat.meta
+Assets/Materials/MaterialEnemy2/Enemy2 HunterLock.mat
+Assets/Materials/MaterialEnemy2/Enemy2 HunterLock.mat.meta
+Assets/Materials/MaterialEnemy2/Enemy2.mat
+Assets/Materials/MaterialEnemy2/Enemy2.mat.meta
+Assets/Materials/MaterialEnemy2/Enemy2Hunter.mat
+Assets/Materials/MaterialEnemy2/Enemy2Hunter.mat.meta
+Assets/Materials/MaterialEnemy2/RootDissolve.mat
+Assets/Materials/MaterialEnemy2/RootDissolve.mat.meta
+Assets/Materials/MaterialEnemy2/VFX_Dissolve.vfx
+Assets/Materials/MaterialEnemy2/VFX_Dissolve.vfx.meta
+Assets/Materials/MaterialEnemy3.meta
+Assets/Materials/MaterialEnemy3/DissolveEnemy3.shadergraph
+Assets/Materials/MaterialEnemy3/DissolveEnemy3.shadergraph.meta
+Assets/Materials/MaterialEnemy3/Enemy3 ScreamerLock 1.mat
+Assets/Materials/MaterialEnemy3/Enemy3 ScreamerLock 1.mat.meta
+Assets/Materials/MaterialEnemy3/Enemy3 ScreamerLock.mat
+Assets/Materials/MaterialEnemy3/Enemy3 ScreamerLock.mat.meta
+Assets/Materials/MaterialEnemy3/Enemy3_Mat.mat
+Assets/Materials/MaterialEnemy3/Enemy3_Mat.mat.meta
+Assets/Materials/MaterialEnemy3/VFX_DissolveEnemy3.vfx
+Assets/Materials/MaterialEnemy3/VFX_DissolveEnemy3.vfx.meta
+Assets/Materials/MaterialsPlayer.meta
+Assets/Materials/MaterialsPlayer/TiimyClothes_Mat.mat
+Assets/Materials/MaterialsPlayer/TiimyClothes_Mat.mat.meta
+Assets/Materials/MaterialsPlayer/TimmyBody_Mat.mat
+Assets/Materials/MaterialsPlayer/TimmyBody_Mat.mat.meta
+Assets/Materials/MaterialsPlayer/TimmyHair_Mat.mat
+Assets/Materials/MaterialsPlayer/TimmyHair_Mat.mat.meta
+Assets/Materials/MaterialsRoot.meta
+Assets/Materials/MaterialsRoot/Root1_Mat.mat
+Assets/Materials/MaterialsRoot/Root1_Mat.mat.meta
+Assets/Materials/MaterialsRoot/Root2_Mat.mat
+Assets/Materials/MaterialsRoot/Root2_Mat.mat.meta
+Assets/Materials/MaterialsRoot/Root3_Mat.mat
+Assets/Materials/MaterialsRoot/Root3_Mat.mat.meta
+Assets/Materials/MaterialsRoot/Root4_Mat.mat
+Assets/Materials/MaterialsRoot/Root4_Mat.mat.meta
+Assets/Materials/MaterialsRoot/Root5_Mat.mat
+Assets/Materials/MaterialsRoot/Root5_Mat.mat.meta
+Assets/Materials/MaterialsRoot/Root7_Mat.mat
+Assets/Materials/MaterialsRoot/Root7_Mat.mat.meta
+Assets/Materials/MaterialsRoot/Root9_Mat.mat
+Assets/Materials/MaterialsRoot/Root9_Mat.mat.meta
+Assets/Materials/MaterialsStatue.meta
+Assets/Materials/MaterialsStatue/Bear.meta
+Assets/Materials/MaterialsStatue/Bear/BearStatue_Mat.mat
+Assets/Materials/MaterialsStatue/Bear/BearStatue_Mat.mat.meta
+Assets/Materials/MaterialsStatue/Bear/panda_low_uv_panda_BaseMap.png
+Assets/Materials/MaterialsStatue/Bear/panda_low_uv_panda_BaseMap.png.meta
+Assets/Materials/MaterialsStatue/Bear/panda_low_uv_panda_Emissive.png
+Assets/Materials/MaterialsStatue/Bear/panda_low_uv_panda_Emissive.png.meta
+Assets/Materials/MaterialsStatue/Bear/panda_low_uv_panda_MaskMap.png
+Assets/Materials/MaterialsStatue/Bear/panda_low_uv_panda_MaskMap.png.meta
+Assets/Materials/MaterialsStatue/Bear/panda_low_uv_panda_Normal.png
+Assets/Materials/MaterialsStatue/Bear/panda_low_uv_panda_Normal.png.meta
+Assets/Materials/MaterialsStatue/Dog.meta
+Assets/Materials/MaterialsStatue/Dog/dog_Low.fbx
+Assets/Materials/MaterialsStatue/Dog/dog_Low.fbx.meta
+Assets/Materials/MaterialsStatue/Dog/dog_Low_estatua_BaseMap.png
+Assets/Materials/MaterialsStatue/Dog/dog_Low_estatua_BaseMap.png.meta
+Assets/Materials/MaterialsStatue/Dog/dog_Low_estatua_Emissive.png
+Assets/Materials/MaterialsStatue/Dog/dog_Low_estatua_Emissive.png.meta
+Assets/Materials/MaterialsStatue/Dog/dog_Low_estatua_MaskMap.png
+Assets/Materials/MaterialsStatue/Dog/dog_Low_estatua_MaskMap.png.meta
+Assets/Materials/MaterialsStatue/Dog/dog_Low_estatua_Normal.png
+Assets/Materials/MaterialsStatue/Dog/dog_Low_estatua_Normal.png.meta
+Assets/Materials/MaterialsStatue/Dog/DogStatue_Mat.mat
+Assets/Materials/MaterialsStatue/Dog/DogStatue_Mat.mat.meta
+Assets/Materials/MaterialsStatue/Mouse.meta
+Assets/Materials/MaterialsStatue/Mouse/MouseStatue_Mat.mat
+Assets/Materials/MaterialsStatue/Mouse/MouseStatue_Mat.mat.meta
+Assets/Materials/MaterialsStatue/Mouse/raton_low_uv_raton_BaseMap.png
+Assets/Materials/MaterialsStatue/Mouse/raton_low_uv_raton_BaseMap.png.meta
+Assets/Materials/MaterialsStatue/Mouse/raton_low_uv_raton_Emissive.png
+Assets/Materials/MaterialsStatue/Mouse/raton_low_uv_raton_Emissive.png.meta
+Assets/Materials/MaterialsStatue/Mouse/raton_low_uv_raton_MaskMap.png
+Assets/Materials/MaterialsStatue/Mouse/raton_low_uv_raton_MaskMap.png.meta
+Assets/Materials/MaterialsStatue/Mouse/raton_low_uv_raton_Normal.png
+Assets/Materials/MaterialsStatue/Mouse/raton_low_uv_raton_Normal.png.meta
+Assets/Materials/MaterialsStatue/Raccoon.meta
+Assets/Materials/MaterialsStatue/Raccoon/Raccoon_Mat.mat
+Assets/Materials/MaterialsStatue/Raccoon/Raccoon_Mat.mat.meta
+Assets/Materials/MaterialsStatue/Raccoon/racoon_low_racoon_BaseMap.png
+Assets/Materials/MaterialsStatue/Raccoon/racoon_low_racoon_BaseMap.png.meta
+Assets/Materials/MaterialsStatue/Raccoon/racoon_low_racoon_Emissive.png
+Assets/Materials/MaterialsStatue/Raccoon/racoon_low_racoon_Emissive.png.meta
+Assets/Materials/MaterialsStatue/Raccoon/racoon_low_racoon_MaskMap.png
+Assets/Materials/MaterialsStatue/Raccoon/racoon_low_racoon_MaskMap.png.meta
+Assets/Materials/MaterialsStatue/Raccoon/racoon_low_racoon_Normal.png
+Assets/Materials/MaterialsStatue/Raccoon/racoon_low_racoon_Normal.png.meta
+Assets/Materials/MaterialsTerrain.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_ambientOcclusion_2k.png
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_ambientOcclusion_2k.png.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_ao_r_m_h_2k.png
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_ao_r_m_h_2k.png.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_baseColor_2k.png
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_baseColor_2k.png.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_height_2k.png
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_height_2k.png.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_metallic_2k.png
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_metallic_2k.png.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_normal_dx_2k.png
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_normal_dx_2k.png.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_normal_gl_2k.png
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_normal_gl_2k.png.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_roughness_2k.png
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/cliff_rocks_02_roughness_2k.png.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/CliffRocks_Layer.terrainlayer
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/CliffRocks_Layer.terrainlayer.meta
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/license.txt
+Assets/Materials/MaterialsTerrain/cliff_rocks_02_2k/license.txt.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_ambientOcclusion_2k.png
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_ambientOcclusion_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_ao_r_m_h_2k.png
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_ao_r_m_h_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_baseColor_2k.png
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_baseColor_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_height_2k.png
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_height_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_metallic_2k.png
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_metallic_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_normal_dx_2k.png
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_normal_dx_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_normal_gl_2k.png
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_normal_gl_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_roughness_2k.png
+Assets/Materials/MaterialsTerrain/ground_05_2k/ground_05_roughness_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k/Ground5_Layer.terrainlayer
+Assets/Materials/MaterialsTerrain/ground_05_2k/Ground5_Layer.terrainlayer.meta
+Assets/Materials/MaterialsTerrain/ground_05_2k/license.txt
+Assets/Materials/MaterialsTerrain/ground_05_2k/license.txt.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_ambient_occlusion_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_ambient_occlusion_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_color_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_color_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_height_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_height_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_normal_dx_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_normal_dx_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_normal_gl_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_normal_gl_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_roughness_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/ground_tiles_01_roughness_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/Ground01_Layere.terrainlayer
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/Ground01_Layere.terrainlayer.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/license.txt
+Assets/Materials/MaterialsTerrain/ground_tiles_01_2k/license.txt.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_ambient_occlussion_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_ambient_occlussion_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_color_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_color_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_height_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_height_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_normal_dx_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_normal_dx_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_normal_gl_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_normal_gl_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_roughness_2k.png
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/ground_tiles_14_roughness_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/Ground14_Layer.terrainlayer
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/Ground14_Layer.terrainlayer.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/license.txt
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/license.txt.meta
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/NewBrush.brush
+Assets/Materials/MaterialsTerrain/ground_tiles_14_2k/NewBrush.brush.meta
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k.meta
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_ambient_occlusion_2k.png
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_ambient_occlusion_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_color_2k.png
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_color_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_height_2k.png
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_height_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_normal_dx_2k.png
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_normal_dx_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_normal_gl_2k.png
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_normal_gl_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_roughness_2k.png
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/ground_with_roots_01_roughness_2k.png.meta
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/GroundWRoots_Layer.terrainlayer
+Assets/Materials/MaterialsTerrain/ground_with_roots_01_2k/GroundWRoots_Layer.terrainlayer.meta
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k.meta
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/license.txt
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/license.txt.meta
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/Marble_Layer.terrainlayer
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/Marble_Layer.terrainlayer.meta
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_ambient_occlussion_2k.png
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_ambient_occlussion_2k.png.meta
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_color_2k.png
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_color_2k.png.meta
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_height_2k.png
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_height_2k.png.meta
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_metallic_2k.png
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_metallic_2k.png.meta
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_normal_dx_2k.png
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_normal_dx_2k.png.meta
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_normal_gl_2k.png
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_normal_gl_2k.png.meta
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_roughness_2k.png
+Assets/Materials/MaterialsTerrain/marble_tiles_01_2k/marble_tiles_01_roughness_2k.png.meta
+Assets/Materials/ScreamParticle.mat
+Assets/Materials/ScreamParticle.mat.meta
+Assets/Materials/Street_Mat.mat
+Assets/Materials/Street_Mat.mat.meta
+Assets/Materials/Terrain_Mat.mat
+Assets/Materials/Terrain_Mat.mat.meta
+Assets/Materials/Test.mat
+Assets/Materials/Test.mat.meta
+Assets/Materials/Textura_Alfombra.meta
+Assets/Materials/Textura_Alfombra/StartAlfombra.meta
+Assets/Materials/Textura_Alfombra/StartAlfombra/AlfombraFinished_mesh_lambert8.001_BaseMap (1).png
+Assets/Materials/Textura_Alfombra/StartAlfombra/AlfombraFinished_mesh_lambert8.001_BaseMap (1).png.meta
+Assets/Materials/Textura_Alfombra/StartAlfombra/AlfombraFinished_mesh_lambert8.001_MaskMap (1).png
+Assets/Materials/Textura_Alfombra/StartAlfombra/AlfombraFinished_mesh_lambert8.001_MaskMap (1).png.meta
+Assets/Materials/Textura_Alfombra/StartAlfombra/AlfombraFinished_mesh_lambert8.001_Normal (1).png
+Assets/Materials/Textura_Alfombra/StartAlfombra/AlfombraFinished_mesh_lambert8.001_Normal (1).png.meta
+Assets/Materials/Textura_Alfombra/StartAlfombra/StartAlfombra_Mat.mat
+Assets/Materials/Textura_Alfombra/StartAlfombra/StartAlfombra_Mat.mat.meta
+Assets/Materials/Textura_Alfombra/TimmyAlfombra.meta
+Assets/Materials/Textura_Alfombra/TimmyAlfombra/AlfombraFinished_mesh_lambert8.001_BaseMap.png
+Assets/Materials/Textura_Alfombra/TimmyAlfombra/AlfombraFinished_mesh_lambert8.001_BaseMap.png.meta
+Assets/Materials/Textura_Alfombra/TimmyAlfombra/AlfombraFinished_mesh_lambert8.001_MaskMap.png
+Assets/Materials/Textura_Alfombra/TimmyAlfombra/AlfombraFinished_mesh_lambert8.001_MaskMap.png.meta
+Assets/Materials/Textura_Alfombra/TimmyAlfombra/AlfombraFinished_mesh_lambert8.001_Normal.png
+Assets/Materials/Textura_Alfombra/TimmyAlfombra/AlfombraFinished_mesh_lambert8.001_Normal.png.meta
+Assets/Materials/Textura_Alfombra/TimmyAlfombra/TimmyAlfombra_Mat.mat
+Assets/Materials/Textura_Alfombra/TimmyAlfombra/TimmyAlfombra_Mat.mat.meta
+Assets/Materials/Textura_Bed.meta
+Assets/Materials/Textura_Bed/Almohada_Mat.mat
+Assets/Materials/Textura_Bed/Almohada_Mat.mat.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Almohada_BaseMap.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Almohada_BaseMap.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Almohada_MaskMap.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Almohada_MaskMap.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Almohada_Normal.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Almohada_Normal.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Colchon_BaseMap.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Colchon_BaseMap.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Colchon_MaskMap.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Colchon_MaskMap.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Colchon_Normal.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Colchon_Normal.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Madera_BaseMap.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Madera_BaseMap.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Madera_MaskMap.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Madera_MaskMap.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Madera_Normal.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Madera_Normal.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Manta_BaseMap.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Manta_BaseMap.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Manta_MaskMap.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Manta_MaskMap.png.meta
+Assets/Materials/Textura_Bed/Cama_Mesh_Manta_Normal.png
+Assets/Materials/Textura_Bed/Cama_Mesh_Manta_Normal.png.meta
+Assets/Materials/Textura_Bed/Colchon_Mat.mat
+Assets/Materials/Textura_Bed/Colchon_Mat.mat.meta
+Assets/Materials/Textura_Bed/MaderaCama_Mat.mat
+Assets/Materials/Textura_Bed/MaderaCama_Mat.mat.meta
+Assets/Materials/Textura_Bed/MantaCama_Mat.mat
+Assets/Materials/Textura_Bed/MantaCama_Mat.mat.meta
+Assets/Materials/Textura_MesitaNoche.meta
+Assets/Materials/Textura_MesitaNoche/MesitaDeNocheFinished_mesh_mesita_mat.001_BaseMap.png
+Assets/Materials/Textura_MesitaNoche/MesitaDeNocheFinished_mesh_mesita_mat.001_BaseMap.png.meta
+Assets/Materials/Textura_MesitaNoche/MesitaDeNocheFinished_mesh_mesita_mat.001_MaskMap.png
+Assets/Materials/Textura_MesitaNoche/MesitaDeNocheFinished_mesh_mesita_mat.001_MaskMap.png.meta
+Assets/Materials/Textura_MesitaNoche/MesitaDeNocheFinished_mesh_mesita_mat.001_Normal.png
+Assets/Materials/Textura_MesitaNoche/MesitaDeNocheFinished_mesh_mesita_mat.001_Normal.png.meta
+Assets/Materials/Textura_MesitaNoche/MesitaNoche_Mat.mat
+Assets/Materials/Textura_MesitaNoche/MesitaNoche_Mat.mat.meta
+Assets/Materials/Textura_Root.meta
+Assets/Materials/Textura_Root/Root1.meta
+Assets/Materials/Textura_Root/Root2.meta
+Assets/Materials/Textura_Root/Root3.meta
+Assets/Materials/Textura_Root/Root4.meta
+Assets/Materials/Textura_Root/Root5.meta
+Assets/Materials/Textura_Root/Root7.meta
+Assets/Materials/Textura_Root/Root9.meta
+Assets/Materials/TexturaBancos.meta
+Assets/Materials/TexturaBancos/BancoDoble.meta
+Assets/Materials/TexturaBancos/BancoDoble/BancoDoble_Mesh_Madera_BaseMap.png
+Assets/Materials/TexturaBancos/BancoDoble/BancoDoble_Mesh_Madera_BaseMap.png.meta
+Assets/Materials/TexturaBancos/BancoDoble/BancoDoble_Mesh_Madera_MaskMap.png
+Assets/Materials/TexturaBancos/BancoDoble/BancoDoble_Mesh_Madera_MaskMap.png.meta
+Assets/Materials/TexturaBancos/BancoDoble/BancoDoble_Mesh_Madera_Normal.png
+Assets/Materials/TexturaBancos/BancoDoble/BancoDoble_Mesh_Madera_Normal.png.meta
+Assets/Materials/TexturaDiosa.meta
+Assets/Materials/TexturaDiosa/Diosa_low_Details_Mat_BaseMap.png
+Assets/Materials/TexturaDiosa/Diosa_low_Details_Mat_BaseMap.png.meta
+Assets/Materials/TexturaDiosa/Diosa_low_Details_Mat_Emissive.png
+Assets/Materials/TexturaDiosa/Diosa_low_Details_Mat_Emissive.png.meta
+Assets/Materials/TexturaDiosa/Diosa_low_Details_Mat_Normal.png
+Assets/Materials/TexturaDiosa/Diosa_low_Details_Mat_Normal.png.meta
+Assets/Materials/TexturaDiosa/Diosa_low_Diosa_mat_BaseMap.png
+Assets/Materials/TexturaDiosa/Diosa_low_Diosa_mat_BaseMap.png.meta
+Assets/Materials/TexturaDiosa/Diosa_low_Diosa_mat_Emissive.png
+Assets/Materials/TexturaDiosa/Diosa_low_Diosa_mat_Emissive.png.meta
+Assets/Materials/TexturaDiosa/Diosa_low_Diosa_mat_MaskMap.png
+Assets/Materials/TexturaDiosa/Diosa_low_Diosa_mat_MaskMap.png.meta
+Assets/Materials/TexturaDiosa/Diosa_low_Diosa_mat_Normal.png
+Assets/Materials/TexturaDiosa/Diosa_low_Diosa_mat_Normal.png.meta
+Assets/Materials/TexturaDiosa/Diosa_Mat.mat
+Assets/Materials/TexturaDiosa/Diosa_Mat.mat.meta
+Assets/Materials/TexturaDiosa/DiosaDetails_Mat.mat
+Assets/Materials/TexturaDiosa/DiosaDetails_Mat.mat.meta
+Assets/Materials/TexturaEnemy1.meta
+Assets/Materials/TexturaEnemy1/enemigo_14_low_enemigo_14_BaseMap.png
+Assets/Materials/TexturaEnemy1/enemigo_14_low_enemigo_14_BaseMap.png.meta
+Assets/Materials/TexturaEnemy1/enemigo_14_low_enemigo_14_Emissive.png
+Assets/Materials/TexturaEnemy1/enemigo_14_low_enemigo_14_Emissive.png.meta
+Assets/Materials/TexturaEnemy1/enemigo_14_low_enemigo_14_MaskMap.png
+Assets/Materials/TexturaEnemy1/enemigo_14_low_enemigo_14_MaskMap.png.meta
+Assets/Materials/TexturaEnemy1/enemigo_14_low_enemigo_14_Normal.png
+Assets/Materials/TexturaEnemy1/enemigo_14_low_enemigo_14_Normal.png.meta
+Assets/Materials/TexturaEnemy3.meta
+Assets/Materials/TexturaEnemy3/enemy_3_low_enemy_3_BaseMap.png
+Assets/Materials/TexturaEnemy3/enemy_3_low_enemy_3_BaseMap.png.meta
+Assets/Materials/TexturaEnemy3/enemy_3_low_enemy_3_Emissive.png
+Assets/Materials/TexturaEnemy3/enemy_3_low_enemy_3_Emissive.png.meta
+Assets/Materials/TexturaEnemy3/enemy_3_low_enemy_3_MaskMap.png
+Assets/Materials/TexturaEnemy3/enemy_3_low_enemy_3_MaskMap.png.meta
+Assets/Materials/TexturaEnemy3/enemy_3_low_enemy_3_Normal.png
+Assets/Materials/TexturaEnemy3/enemy_3_low_enemy_3_Normal.png.meta
+Assets/Materials/Texture_Armario.meta
+Assets/Materials/Texture_Armario/Armario_Mesh_Madera.003_BaseMap.png
+Assets/Materials/Texture_Armario/Armario_Mesh_Madera.003_BaseMap.png.meta
+Assets/Materials/Texture_Armario/Armario_Mesh_Madera.003_MaskMap.png
+Assets/Materials/Texture_Armario/Armario_Mesh_Madera.003_MaskMap.png.meta
+Assets/Materials/Texture_Armario/Armario_Mesh_Madera.003_Normal.png
+Assets/Materials/Texture_Armario/Armario_Mesh_Madera.003_Normal.png.meta
+Assets/Materials/Texture_Armario/Armario_Mesh_Manilla_BaseMap.png
+Assets/Materials/Texture_Armario/Armario_Mesh_Manilla_BaseMap.png.meta
+Assets/Materials/Texture_Armario/Armario_Mesh_Manilla_MaskMap.png
+Assets/Materials/Texture_Armario/Armario_Mesh_Manilla_MaskMap.png.meta
+Assets/Materials/Texture_Armario/Armario_Mesh_Manilla_Normal.png
+Assets/Materials/Texture_Armario/Armario_Mesh_Manilla_Normal.png.meta
+Assets/Materials/Texture_Armario/Armario_Mesh_Pomo_BaseMap.png
+Assets/Materials/Texture_Armario/Armario_Mesh_Pomo_BaseMap.png.meta
+Assets/Materials/Texture_Armario/Armario_Mesh_Pomo_MaskMap.png
+Assets/Materials/Texture_Armario/Armario_Mesh_Pomo_MaskMap.png.meta
+Assets/Materials/Texture_Armario/Armario_Mesh_Pomo_Normal.png
+Assets/Materials/Texture_Armario/Armario_Mesh_Pomo_Normal.png.meta
+Assets/Materials/Texture_Armario/ArmarioMadera_Mat.mat
+Assets/Materials/Texture_Armario/ArmarioMadera_Mat.mat.meta
+Assets/Materials/Texture_Armario/ArmarioManilla_Mat.mat
+Assets/Materials/Texture_Armario/ArmarioManilla_Mat.mat.meta
+Assets/Materials/Texture_Armario/ArmarioPomo_Mat.mat
+Assets/Materials/Texture_Armario/ArmarioPomo_Mat.mat.meta
+Assets/Materials/Texture_Fountain.meta
+Assets/Materials/Texture_Fountain/Fuente_diosa_BaseMap.png
+Assets/Materials/Texture_Fountain/Fuente_diosa_BaseMap.png.meta
+Assets/Materials/Texture_Fountain/Fuente_diosa_Emissive.png
+Assets/Materials/Texture_Fountain/Fuente_diosa_Emissive.png.meta
+Assets/Materials/Texture_Fountain/Fuente_diosa_MaskMap.png
+Assets/Materials/Texture_Fountain/Fuente_diosa_MaskMap.png.meta
+Assets/Materials/Texture_Fountain/Fuente_diosa_Normal.png
+Assets/Materials/Texture_Fountain/Fuente_diosa_Normal.png.meta
+Assets/Materials/Texture_Fountain/Fuente_fuente_BaseMap.png
+Assets/Materials/Texture_Fountain/Fuente_fuente_BaseMap.png.meta
+Assets/Materials/Texture_Fountain/Fuente_fuente_MaskMap.png
+Assets/Materials/Texture_Fountain/Fuente_fuente_MaskMap.png.meta
+Assets/Materials/Texture_Fountain/Fuente_fuente_Normal.png
+Assets/Materials/Texture_Fountain/Fuente_fuente_Normal.png.meta
+Assets/Materials/Texture_Fountain/Fuente_Mat.mat
+Assets/Materials/Texture_Fountain/Fuente_Mat.mat.meta
+Assets/Materials/Texture_Fountain/FuenteDiosa_Mat.mat
+Assets/Materials/Texture_Fountain/FuenteDiosa_Mat.mat.meta
+Assets/Materials/Texture_Mesa.meta
+Assets/Materials/Texture_Mesa/Mesa_Mat.mat
+Assets/Materials/Texture_Mesa/Mesa_Mat.mat.meta
+Assets/Materials/Texture_Mesa/Mesa_Mesh_Mesa_BaseMap.png
+Assets/Materials/Texture_Mesa/Mesa_Mesh_Mesa_BaseMap.png.meta
+Assets/Materials/Texture_Mesa/Mesa_Mesh_Mesa_MaskMap.png
+Assets/Materials/Texture_Mesa/Mesa_Mesh_Mesa_MaskMap.png.meta
+Assets/Materials/Texture_Mesa/Mesa_Mesh_Mesa_Normal.png
+Assets/Materials/Texture_Mesa/Mesa_Mesh_Mesa_Normal.png.meta
+Assets/Materials/Texture_Sofa.meta
+Assets/Materials/Texture_Sofa/Sofa_Mat.mat
+Assets/Materials/Texture_Sofa/Sofa_Mat.mat.meta
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Patas_BaseMap.png
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Patas_BaseMap.png.meta
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Patas_MaskMap.png
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Patas_MaskMap.png.meta
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Patas_Normal.png
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Patas_Normal.png.meta
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Sofa_BaseMap.png
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Sofa_BaseMap.png.meta
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Sofa_MaskMap.png
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Sofa_MaskMap.png.meta
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Sofa_Normal.png
+Assets/Materials/Texture_Sofa/Sofa_Mesh (1)_Sofa_Normal.png.meta
+Assets/Materials/Texture_Sofa/SofaPatas_Mat.mat
+Assets/Materials/Texture_Sofa/SofaPatas_Mat.mat.meta
+Assets/Materials/TextureDecals.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_AO.jpg
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_AO.jpg.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_BaseColor.jpg
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_BaseColor.jpg.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Bump.jpg
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Bump.jpg.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Cavity.jpg
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Cavity.jpg.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Displacement.jpg
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Displacement.jpg.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Gloss.jpg
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Gloss.jpg.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Normal.jpg
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Normal.jpg.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Opacity.jpg
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Opacity.jpg.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Roughness.jpg
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Roughness.jpg.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Specular.jpg
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/Asphalt_Crack_umegfd0cw_2K_Specular.jpg.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/AsphaltCrack1.mat
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/AsphaltCrack1.mat.meta
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/umegfd0cw.json
+Assets/Materials/TextureDecals/asphalt_crack_umegfd0cw_2k/umegfd0cw.json.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_AO.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_AO.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_BaseColor.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_BaseColor.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Bump.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Bump.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Cavity.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Cavity.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Displacement.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Displacement.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Gloss.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Gloss.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Normal.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Normal.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Opacity.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Opacity.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Roughness.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Roughness.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Specular.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/Concrete_Crack_sdfm3fd_2K_Specular.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/sdfm3fd.json
+Assets/Materials/TextureDecals/concrete_crack_sdfm3fd_2k/sdfm3fd.json.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_AO.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_AO.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_BaseColor.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_BaseColor.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Bump.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Bump.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Cavity.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Cavity.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Displacement.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Displacement.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Gloss.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Gloss.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Normal.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Normal.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Opacity.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Opacity.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Roughness.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Roughness.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Specular.jpg
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/Concrete_Crack_sdokhyi_2K_Specular.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/sdokhyi.json
+Assets/Materials/TextureDecals/concrete_crack_sdokhyi_2k/sdokhyi.json.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1).meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_AO.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_AO.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_BaseColor.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_BaseColor.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Bump.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Bump.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Cavity.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Cavity.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Displacement.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Displacement.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Gloss.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Gloss.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Normal.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Normal.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Opacity.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Opacity.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Roughness.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Roughness.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Specular.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/Concrete_Crack_sf2moag_2K_Specular.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/sf2moag.json
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k (1)/sf2moag.json.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_AO.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_AO.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_BaseColor.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_BaseColor.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Bump.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Bump.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Cavity.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Cavity.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Displacement.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Displacement.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Gloss.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Gloss.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Normal.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Normal.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Opacity.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Opacity.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Roughness.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Roughness.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Specular.jpg
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/Concrete_Crack_sf2moag_2K_Specular.jpg.meta
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/sf2moag.json
+Assets/Materials/TextureDecals/concrete_crack_sf2moag_2k/sf2moag.json.meta
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready.meta
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/source.meta
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/source/PlaneMesh.fbx
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/source/PlaneMesh.fbx.meta
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/textures.meta
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/textures/Road_EdgeCracks1_AlbOpac.png
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/textures/Road_EdgeCracks1_AlbOpac.png.meta
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/textures/Road_EdgeCracks1_AO.png
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/textures/Road_EdgeCracks1_AO.png.meta
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/textures/Road_EdgeCracks1_NRM.png
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/textures/Road_EdgeCracks1_NRM.png.meta
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/textures/Road_EdgeCracks1_Rough.png
+Assets/Materials/TextureDecals/decal-ground-cracks-game-ready/textures/Road_EdgeCracks1_Rough.png.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_AO.jpg
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_AO.jpg.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_BaseColor.jpg
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_BaseColor.jpg.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Bump.jpg
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Bump.jpg.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Cavity.jpg
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Cavity.jpg.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Displacement.jpg
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Displacement.jpg.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Gloss.jpg
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Gloss.jpg.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Normal.jpg
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Normal.jpg.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Opacity.jpg
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Opacity.jpg.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Roughness.jpg
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Roughness.jpg.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Specular.jpg
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/Rock_Patch_ui2lcaufw_4K_Specular.jpg.meta
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/ui2lcaufw.json
+Assets/Materials/TextureDecals/rock_patch_ui2lcaufw_4k/ui2lcaufw.json.meta
+Assets/Materials/TextureEnemy2.meta
+Assets/Materials/TextureEnemy2/enemy_2_low_enemy_2_BaseMap.png
+Assets/Materials/TextureEnemy2/enemy_2_low_enemy_2_BaseMap.png.meta
+Assets/Materials/TextureEnemy2/enemy_2_low_enemy_2_Emissive.png
+Assets/Materials/TextureEnemy2/enemy_2_low_enemy_2_Emissive.png.meta
+Assets/Materials/TextureEnemy2/enemy_2_low_enemy_2_MaskMap.png
+Assets/Materials/TextureEnemy2/enemy_2_low_enemy_2_MaskMap.png.meta
+Assets/Materials/TextureEnemy2/enemy_2_low_enemy_2_Normal.png
+Assets/Materials/TextureEnemy2/enemy_2_low_enemy_2_Normal.png.meta
+Assets/Materials/TextureFabric.meta
+Assets/Materials/TextureFabric/Fabric_Jute_001_ambientOcclusion.png
+Assets/Materials/TextureFabric/Fabric_Jute_001_ambientOcclusion.png.meta
+Assets/Materials/TextureFabric/Fabric_Jute_001_basecolor.png
+Assets/Materials/TextureFabric/Fabric_Jute_001_basecolor.png.meta
+Assets/Materials/TextureFabric/Fabric_Jute_001_height.png
+Assets/Materials/TextureFabric/Fabric_Jute_001_height.png.meta
+Assets/Materials/TextureFabric/Fabric_Jute_001_normal.png
+Assets/Materials/TextureFabric/Fabric_Jute_001_normal.png.meta
+Assets/Materials/TextureFabric/Fabric_Jute_001_roughness.png
+Assets/Materials/TextureFabric/Fabric_Jute_001_roughness.png.meta
+Assets/Materials/TextureFabric/Fabric_Mat.mat
+Assets/Materials/TextureFabric/Fabric_Mat.mat.meta
+Assets/Materials/TextureLamp.meta
+Assets/Materials/TextureLamp/GlassLamp_Mat.mat
+Assets/Materials/TextureLamp/GlassLamp_Mat.mat.meta
+Assets/Materials/TextureLamp/Lamp_Mat.mat
+Assets/Materials/TextureLamp/Lamp_Mat.mat.meta
+Assets/Materials/TextureLamp/Lampara_Mesh_Base_Lamp_Mat_BaseMap.png
+Assets/Materials/TextureLamp/Lampara_Mesh_Base_Lamp_Mat_BaseMap.png.meta
+Assets/Materials/TextureLamp/Lampara_Mesh_Base_Lamp_Mat_MaskMap.png
+Assets/Materials/TextureLamp/Lampara_Mesh_Base_Lamp_Mat_MaskMap.png.meta
+Assets/Materials/TextureLamp/Lampara_Mesh_Base_Lamp_Mat_Normal.png
+Assets/Materials/TextureLamp/Lampara_Mesh_Base_Lamp_Mat_Normal.png.meta
+Assets/Materials/TextureLamp/Lampara_Mesh_Glass_Lamo_Mat_BaseMap.png
+Assets/Materials/TextureLamp/Lampara_Mesh_Glass_Lamo_Mat_BaseMap.png.meta
+Assets/Materials/TextureLamp/Lampara_Mesh_Glass_Lamo_Mat_MaskMap.png
+Assets/Materials/TextureLamp/Lampara_Mesh_Glass_Lamo_Mat_MaskMap.png.meta
+Assets/Materials/TextureLamp/Lampara_Mesh_Glass_Lamo_Mat_Normal.png
+Assets/Materials/TextureLamp/Lampara_Mesh_Glass_Lamo_Mat_Normal.png.meta
+Assets/Materials/TexturePlank.meta
+Assets/Materials/TexturePlank/Planks_Mat.mat
+Assets/Materials/TexturePlank/Planks_Mat.mat.meta
+Assets/Materials/TexturePlank/wood_02_ambient_occlusion_2k.png
+Assets/Materials/TexturePlank/wood_02_ambient_occlusion_2k.png.meta
+Assets/Materials/TexturePlank/wood_02_color_2k.png
+Assets/Materials/TexturePlank/wood_02_color_2k.png.meta
+Assets/Materials/TexturePlank/wood_02_height_2k.png
+Assets/Materials/TexturePlank/wood_02_height_2k.png.meta
+Assets/Materials/TexturePlank/wood_02_normal_2k.png
+Assets/Materials/TexturePlank/wood_02_normal_2k.png.meta
+Assets/Materials/TexturePlank/wood_02_normal_gl_2k.png
+Assets/Materials/TexturePlank/wood_02_normal_gl_2k.png.meta
+Assets/Materials/TexturePlank/wood_02_roughness_2k.png
+Assets/Materials/TexturePlank/wood_02_roughness_2k.png.meta
+Assets/Materials/TexturePlayer.meta
+Assets/Materials/TexturePlayer/Body.meta
+Assets/Materials/TexturePlayer/Body/Timmy_low_body_BaseMap.png
+Assets/Materials/TexturePlayer/Body/Timmy_low_body_BaseMap.png.meta
+Assets/Materials/TexturePlayer/Body/Timmy_low_body_MaskMap.png
+Assets/Materials/TexturePlayer/Body/Timmy_low_body_MaskMap.png.meta
+Assets/Materials/TexturePlayer/Body/Timmy_low_body_Normal.png
+Assets/Materials/TexturePlayer/Body/Timmy_low_body_Normal.png.meta
+Assets/Materials/TexturePlayer/Clothes.meta
+Assets/Materials/TexturePlayer/Clothes/Timmy_low_clothes_BaseMap.png
+Assets/Materials/TexturePlayer/Clothes/Timmy_low_clothes_BaseMap.png.meta
+Assets/Materials/TexturePlayer/Clothes/Timmy_low_clothes_MaskMap.png
+Assets/Materials/TexturePlayer/Clothes/Timmy_low_clothes_MaskMap.png.meta
+Assets/Materials/TexturePlayer/Clothes/Timmy_low_clothes_Normal.png
+Assets/Materials/TexturePlayer/Clothes/Timmy_low_clothes_Normal.png.meta
+Assets/Materials/TexturePlayer/Hair.meta
+Assets/Materials/TexturePlayer/Hair/Timmy_low_hair_BaseMap.png
+Assets/Materials/TexturePlayer/Hair/Timmy_low_hair_BaseMap.png.meta
+Assets/Materials/TexturePlayer/Hair/Timmy_low_hair_MaskMap.png
+Assets/Materials/TexturePlayer/Hair/Timmy_low_hair_MaskMap.png.meta
+Assets/Materials/TexturePlayer/Hair/Timmy_low_hair_Normal.png
+Assets/Materials/TexturePlayer/Hair/Timmy_low_hair_Normal.png.meta
+Assets/Materials/TextureWalls.meta
+Assets/Materials/TextureWalls/Corner.meta
+Assets/Materials/TextureWalls/Corner/Corner_Mat.mat
+Assets/Materials/TextureWalls/Corner/Corner_Mat.mat.meta
+Assets/Materials/TextureWalls/Corner/CornerRoof_Mesh_UVChecker_BaseMap.png
+Assets/Materials/TextureWalls/Corner/CornerRoof_Mesh_UVChecker_BaseMap.png.meta
+Assets/Materials/TextureWalls/Corner/CornerRoof_Mesh_UVChecker_MaskMap.png
+Assets/Materials/TextureWalls/Corner/CornerRoof_Mesh_UVChecker_MaskMap.png.meta
+Assets/Materials/TextureWalls/Corner/CornerRoof_Mesh_UVChecker_Normal.png
+Assets/Materials/TextureWalls/Corner/CornerRoof_Mesh_UVChecker_Normal.png.meta
+Assets/Materials/TextureWalls/CornerRoof.meta
+Assets/Materials/TextureWalls/CornerRoof/CornerRoof_Mat.mat
+Assets/Materials/TextureWalls/CornerRoof/CornerRoof_Mat.mat.meta
+Assets/Materials/TextureWalls/CornerRoof/CornerRoof_Mesh_UVChecker_BaseMap (1).png
+Assets/Materials/TextureWalls/CornerRoof/CornerRoof_Mesh_UVChecker_BaseMap (1).png.meta
+Assets/Materials/TextureWalls/CornerRoof/CornerRoof_Mesh_UVChecker_MaskMap (1).png
+Assets/Materials/TextureWalls/CornerRoof/CornerRoof_Mesh_UVChecker_MaskMap (1).png.meta
+Assets/Materials/TextureWalls/CornerRoof/CornerRoof_Mesh_UVChecker_Normal (1).png
+Assets/Materials/TextureWalls/CornerRoof/CornerRoof_Mesh_UVChecker_Normal (1).png.meta
+Assets/Materials/TextureWalls/Door.meta
+Assets/Materials/TextureWalls/Door/Door_Mat.mat
+Assets/Materials/TextureWalls/Door/Door_Mat.mat.meta
+Assets/Materials/TextureWalls/Door/DoorWall_Mesh_UVChecker_BaseMap.png
+Assets/Materials/TextureWalls/Door/DoorWall_Mesh_UVChecker_BaseMap.png.meta
+Assets/Materials/TextureWalls/Door/DoorWall_Mesh_UVChecker_MaskMap.png
+Assets/Materials/TextureWalls/Door/DoorWall_Mesh_UVChecker_MaskMap.png.meta
+Assets/Materials/TextureWalls/Door/DoorWall_Mesh_UVChecker_Normal.png
+Assets/Materials/TextureWalls/Door/DoorWall_Mesh_UVChecker_Normal.png.meta
+Assets/Materials/TextureWalls/ExteriorWall.meta
+Assets/Materials/TextureWalls/ExteriorWall/BasicWall_Mesh_UVChecker_BaseMap (1).png
+Assets/Materials/TextureWalls/ExteriorWall/BasicWall_Mesh_UVChecker_BaseMap (1).png.meta
+Assets/Materials/TextureWalls/ExteriorWall/BasicWall_Mesh_UVChecker_MaskMap (1).png
+Assets/Materials/TextureWalls/ExteriorWall/BasicWall_Mesh_UVChecker_MaskMap (1).png.meta
+Assets/Materials/TextureWalls/ExteriorWall/BasicWall_Mesh_UVChecker_Normal (1).png
+Assets/Materials/TextureWalls/ExteriorWall/BasicWall_Mesh_UVChecker_Normal (1).png.meta
+Assets/Materials/TextureWalls/ExteriorWall/ExteriorWall_Mat.mat
+Assets/Materials/TextureWalls/ExteriorWall/ExteriorWall_Mat.mat.meta
+Assets/Materials/TextureWalls/Floor.meta
+Assets/Materials/TextureWalls/Floor/Floor_Mat.mat
+Assets/Materials/TextureWalls/Floor/Floor_Mat.mat.meta
+Assets/Materials/TextureWalls/Floor/Floor_Mesh_UVChecker_BaseMap.png
+Assets/Materials/TextureWalls/Floor/Floor_Mesh_UVChecker_BaseMap.png.meta
+Assets/Materials/TextureWalls/Floor/Floor_Mesh_UVChecker_MaskMap.png
+Assets/Materials/TextureWalls/Floor/Floor_Mesh_UVChecker_MaskMap.png.meta
+Assets/Materials/TextureWalls/Floor/Floor_Mesh_UVChecker_Normal.png
+Assets/Materials/TextureWalls/Floor/Floor_Mesh_UVChecker_Normal.png.meta
+Assets/Materials/TextureWalls/Roof.meta
+Assets/Materials/TextureWalls/Roof/Roof_Mesh_UVChecker_BaseMap.png
+Assets/Materials/TextureWalls/Roof/Roof_Mesh_UVChecker_BaseMap.png.meta
+Assets/Materials/TextureWalls/Roof/Roof_Mesh_UVChecker_MaskMap.png
+Assets/Materials/TextureWalls/Roof/Roof_Mesh_UVChecker_MaskMap.png.meta
+Assets/Materials/TextureWalls/Roof/Roof_Mesh_UVChecker_Normal.png
+Assets/Materials/TextureWalls/Roof/Roof_Mesh_UVChecker_Normal.png.meta
+Assets/Materials/TextureWalls/Roof/RoofMat.mat
+Assets/Materials/TextureWalls/Roof/RoofMat.mat.meta
+Assets/Materials/TextureWalls/TimmyWall.meta
+Assets/Materials/TextureWalls/TimmyWall/BasicWall_Mesh_UVChecker_BaseMap.png
+Assets/Materials/TextureWalls/TimmyWall/BasicWall_Mesh_UVChecker_BaseMap.png.meta
+Assets/Materials/TextureWalls/TimmyWall/BasicWall_Mesh_UVChecker_MaskMap.png
+Assets/Materials/TextureWalls/TimmyWall/BasicWall_Mesh_UVChecker_MaskMap.png.meta
+Assets/Materials/TextureWalls/TimmyWall/BasicWall_Mesh_UVChecker_Normal.png
+Assets/Materials/TextureWalls/TimmyWall/BasicWall_Mesh_UVChecker_Normal.png.meta
+Assets/Materials/TextureWalls/TimmyWall/TimmyWall_Mat.mat
+Assets/Materials/TextureWalls/TimmyWall/TimmyWall_Mat.mat.meta
+Assets/Materials/TextureWalls/Windows.meta
+Assets/Materials/TextureWalls/Windows/WindowsMat.mat
+Assets/Materials/TextureWalls/Windows/WindowsMat.mat.meta
+Assets/Materials/TextureWalls/Windows/WindowWall_Mesh_UVChecker_BaseMap.png
+Assets/Materials/TextureWalls/Windows/WindowWall_Mesh_UVChecker_BaseMap.png.meta
+Assets/Materials/TextureWalls/Windows/WindowWall_Mesh_UVChecker_MaskMap.png
+Assets/Materials/TextureWalls/Windows/WindowWall_Mesh_UVChecker_MaskMap.png.meta
+Assets/Materials/TextureWalls/Windows/WindowWall_Mesh_UVChecker_Normal.png
+Assets/Materials/TextureWalls/Windows/WindowWall_Mesh_UVChecker_Normal.png.meta
+Assets/Materials/Tree_Mat.mat
+Assets/Materials/Tree_Mat.mat.meta
+Assets/Materials/TreeBlack_Mat.mat
+Assets/Materials/TreeBlack_Mat.mat.meta
+Assets/Materials/Wall.mat
+Assets/Materials/Wall.mat.meta
+Assets/Meshes.meta
+Assets/Meshes/AlfombraFinished_mesh.fbx
+Assets/Meshes/AlfombraFinished_mesh.fbx.meta
+Assets/Meshes/Armario_Mesh.fbx
+Assets/Meshes/Armario_Mesh.fbx.meta
+Assets/Meshes/Ball_Mesh.fbx
+Assets/Meshes/Ball_Mesh.fbx.meta
+Assets/Meshes/Banco Doble UV.fbx
+Assets/Meshes/Banco Doble UV.fbx.meta
+Assets/Meshes/Banco individual 3 (1).fbx
+Assets/Meshes/Banco individual 3 (1).fbx.meta
+Assets/Meshes/BancoDoble_Mesh.fbx
+Assets/Meshes/BancoDoble_Mesh.fbx.meta
+Assets/Meshes/BunnyToy_Mesh.fbx
+Assets/Meshes/BunnyToy_Mesh.fbx.meta
+Assets/Meshes/Cama_Mesh.fbx
+Assets/Meshes/Cama_Mesh.fbx.meta
+Assets/Meshes/Casas_PuebloFaceFix.fbx
+Assets/Meshes/Casas_PuebloFaceFix.fbx.meta
+Assets/Meshes/Chest_Mesh.fbx
+Assets/Meshes/Chest_Mesh.fbx.meta
+Assets/Meshes/Chimney_Mesh.fbx
+Assets/Meshes/Chimney_Mesh.fbx.meta
+Assets/Meshes/ContainerTrash_Mesh.fbx
+Assets/Meshes/ContainerTrash_Mesh.fbx.meta
+Assets/Meshes/Cortina_Mesh.fbx
+Assets/Meshes/Cortina_Mesh.fbx.meta
+Assets/Meshes/Decals.fbx
+Assets/Meshes/Decals.fbx.meta
+Assets/Meshes/Dosa_Buena_lowPoly.fbx
+Assets/Meshes/Dosa_Buena_lowPoly.fbx.meta
+Assets/Meshes/Enemy1.meta
+Assets/Meshes/Enemy1/Enemy1.fbx
+Assets/Meshes/Enemy1/Enemy1.fbx.meta
+Assets/Meshes/Enemy2.meta
+Assets/Meshes/Enemy2/Enemy2_Mesh.fbx
+Assets/Meshes/Enemy2/Enemy2_Mesh.fbx.meta
+Assets/Meshes/Enemy2/Mutant Breathing Idle.fbx
+Assets/Meshes/Enemy2/Mutant Breathing Idle.fbx.meta
+Assets/Meshes/Enemy2/Mutant Dying.fbx
+Assets/Meshes/Enemy2/Mutant Dying.fbx.meta
+Assets/Meshes/Enemy2/Mutant Run (1).fbx
+Assets/Meshes/Enemy2/Mutant Run (1).fbx.meta
+Assets/Meshes/Enemy2/Mutant Swiping.fbx
+Assets/Meshes/Enemy2/Mutant Swiping.fbx.meta
+Assets/Meshes/Enemy2/Mutant Walking (1).fbx
+Assets/Meshes/Enemy2/Mutant Walking (1).fbx.meta
+Assets/Meshes/Enemy2/ParentAnim.meta
+Assets/Meshes/Enemy2/ParentAnim/Attack_Enemy2.anim
+Assets/Meshes/Enemy2/ParentAnim/Attack_Enemy2.anim.meta
+Assets/Meshes/Enemy2/ParentAnim/Father.controller
+Assets/Meshes/Enemy2/ParentAnim/Father.controller.meta
+Assets/Meshes/Enemy2/ParentAnim/Left Turn.fbx
+Assets/Meshes/Enemy2/ParentAnim/Left Turn.fbx.meta
+Assets/Meshes/Enemy2/ParentAnim/Mother.controller
+Assets/Meshes/Enemy2/ParentAnim/Mother.controller.meta
+Assets/Meshes/Enemy2/ParentAnim/Mutant Idle.fbx
+Assets/Meshes/Enemy2/ParentAnim/Mutant Idle.fbx.meta
+Assets/Meshes/Enemy2/ParentAnim/Mutant Right Turn 90.fbx
+Assets/Meshes/Enemy2/ParentAnim/Mutant Right Turn 90.fbx.meta
+Assets/Meshes/Enemy2/ParentAnim/Mutant Roaring.fbx
+Assets/Meshes/Enemy2/ParentAnim/Mutant Roaring.fbx.meta
+Assets/Meshes/Enemy2/ParentAnim/Mutant Run.fbx
+Assets/Meshes/Enemy2/ParentAnim/Mutant Run.fbx.meta
+Assets/Meshes/Enemy2/ParentAnim/Right Turn.fbx
+Assets/Meshes/Enemy2/ParentAnim/Right Turn.fbx.meta
+Assets/Meshes/Enemy2/ParentAnim/Yelling Out.fbx
+Assets/Meshes/Enemy2/ParentAnim/Yelling Out.fbx.meta
+Assets/Meshes/Enemy2/ParentAnim/Zombie Running.fbx
+Assets/Meshes/Enemy2/ParentAnim/Zombie Running.fbx.meta
+Assets/Meshes/Enemy2/ParentAnim/Zombie Scream.fbx
+Assets/Meshes/Enemy2/ParentAnim/Zombie Scream.fbx.meta
+Assets/Meshes/Enemy2/ParentAnim/Zombie Turn.fbx
+Assets/Meshes/Enemy2/ParentAnim/Zombie Turn.fbx.meta
+Assets/Meshes/Enemy2/ShyRun.anim
+Assets/Meshes/Enemy2/ShyRun.anim.meta
+Assets/Meshes/Enemy2/ShyWalk.anim
+Assets/Meshes/Enemy2/ShyWalk.anim.meta
+Assets/Meshes/Enemy3.meta
+Assets/Meshes/Enemy3/Armature_@Attack.anim
+Assets/Meshes/Enemy3/Armature_@Attack.anim.meta
+Assets/Meshes/Enemy3/Armature_@Walk.anim
+Assets/Meshes/Enemy3/Armature_@Walk.anim.meta
+Assets/Meshes/Enemy3/Enemy3.fbx
+Assets/Meshes/Enemy3/Enemy3.fbx.meta
+Assets/Meshes/Estanteria2_mesh.fbx
+Assets/Meshes/Estanteria2_mesh.fbx.meta
+Assets/Meshes/Fountain_Mesh.fbx
+Assets/Meshes/Fountain_Mesh.fbx.meta
+Assets/Meshes/God.meta
+Assets/Meshes/God/Diosa_Mesh.fbx
+Assets/Meshes/God/Diosa_Mesh.fbx.meta
+Assets/Meshes/God/Left TurnGod.fbx
+Assets/Meshes/God/Left TurnGod.fbx.meta
+Assets/Meshes/God/Right TurnGod.fbx
+Assets/Meshes/God/Right TurnGod.fbx.meta
+Assets/Meshes/God/Standard Walk.fbx
+Assets/Meshes/God/Standard Walk.fbx.meta
+Assets/Meshes/God/Standing W_Briefcase Idle.fbx
+Assets/Meshes/God/Standing W_Briefcase Idle.fbx.meta
+Assets/Meshes/Lampara_Mesh.fbx
+Assets/Meshes/Lampara_Mesh.fbx.meta
+Assets/Meshes/LamparaFinished_mesh.fbx
+Assets/Meshes/LamparaFinished_mesh.fbx.meta
+Assets/Meshes/Lavadora_Mesh.fbx
+Assets/Meshes/Lavadora_Mesh.fbx.meta
+Assets/Meshes/Mesa_Mesh (1).fbx
+Assets/Meshes/Mesa_Mesh (1).fbx.meta
+Assets/Meshes/MesitaDeNocheFinished_mesh.fbx
+Assets/Meshes/MesitaDeNocheFinished_mesh.fbx.meta
+Assets/Meshes/ModuleHouse.meta
+Assets/Meshes/ModuleHouse/BasicWall_Mesh.fbx
+Assets/Meshes/ModuleHouse/BasicWall_Mesh.fbx.meta
+Assets/Meshes/ModuleHouse/Chimney_Mesh.fbx
+Assets/Meshes/ModuleHouse/Chimney_Mesh.fbx.meta
+Assets/Meshes/ModuleHouse/CornerRoof_Mesh.fbx
+Assets/Meshes/ModuleHouse/CornerRoof_Mesh.fbx.meta
+Assets/Meshes/ModuleHouse/CornerWall_Mesh.fbx
+Assets/Meshes/ModuleHouse/CornerWall_Mesh.fbx.meta
+Assets/Meshes/ModuleHouse/DoorWall_Mesh.fbx
+Assets/Meshes/ModuleHouse/DoorWall_Mesh.fbx.meta
+Assets/Meshes/ModuleHouse/Floor_Mesh.fbx
+Assets/Meshes/ModuleHouse/Floor_Mesh.fbx.meta
+Assets/Meshes/ModuleHouse/Roof_Mesh.fbx
+Assets/Meshes/ModuleHouse/Roof_Mesh.fbx.meta
+Assets/Meshes/ModuleHouse/RoofWall_Mesh.fbx
+Assets/Meshes/ModuleHouse/RoofWall_Mesh.fbx.meta
+Assets/Meshes/ModuleHouse/WindowWall_Mesh.fbx
+Assets/Meshes/ModuleHouse/WindowWall_Mesh.fbx.meta
+Assets/Meshes/Nevera_mesh.fbx
+Assets/Meshes/Nevera_mesh.fbx.meta
+Assets/Meshes/Player.meta
+Assets/Meshes/Player/Timmy.meta
+Assets/Meshes/Player/Timmy/@Jump.anim
+Assets/Meshes/Player/Timmy/@Jump.anim.meta
+Assets/Meshes/Player/Timmy/@JumpDown.anim
+Assets/Meshes/Player/Timmy/@JumpDown.anim.meta
+Assets/Meshes/Player/Timmy/@JumpLanding.anim
+Assets/Meshes/Player/Timmy/@JumpLanding.anim.meta
+Assets/Meshes/Player/Timmy/Armature_@Idle.anim
+Assets/Meshes/Player/Timmy/Armature_@Idle.anim.meta
+Assets/Meshes/Player/Timmy/Armature_@Idle_Crouch.anim
+Assets/Meshes/Player/Timmy/Armature_@Idle_Crouch.anim.meta
+Assets/Meshes/Player/Timmy/Armature_@Run.anim
+Assets/Meshes/Player/Timmy/Armature_@Run.anim.meta
+Assets/Meshes/Player/Timmy/Armature_@walk.anim
+Assets/Meshes/Player/Timmy/Armature_@walk.anim.meta
+Assets/Meshes/Player/Timmy/Armature_@walk_crouch.anim
+Assets/Meshes/Player/Timmy/Armature_@walk_crouch.anim.meta
+Assets/Meshes/Player/Timmy/Timmy_Final.fbx
+Assets/Meshes/Player/Timmy/Timmy_Final.fbx.meta
+Assets/Meshes/Player/Timmy/TimmyNewAnim.fbx
+Assets/Meshes/Player/Timmy/TimmyNewAnim.fbx.meta
+Assets/Meshes/Player/Timmy/TimmyNewAnim1.fbx
+Assets/Meshes/Player/Timmy/TimmyNewAnim1.fbx.meta
+Assets/Meshes/raiz1.fbx
+Assets/Meshes/raiz1.fbx.meta
+Assets/Meshes/raiz2.fbx
+Assets/Meshes/raiz2.fbx.meta
+Assets/Meshes/raiz3.fbx
+Assets/Meshes/raiz3.fbx.meta
+Assets/Meshes/raiz4.fbx
+Assets/Meshes/raiz4.fbx.meta
+Assets/Meshes/raiz5.fbx
+Assets/Meshes/raiz5.fbx.meta
+Assets/Meshes/raiz7.fbx
+Assets/Meshes/raiz7.fbx.meta
+Assets/Meshes/raiz9.fbx
+Assets/Meshes/raiz9.fbx.meta
+Assets/Meshes/Reloj_Mesh.fbx
+Assets/Meshes/Reloj_Mesh.fbx.meta
+Assets/Meshes/Roots.meta
+Assets/Meshes/Roots/Root1_Mesh.fbx
+Assets/Meshes/Roots/Root1_Mesh.fbx.meta
+Assets/Meshes/Roots/Root2_Mesh.fbx
+Assets/Meshes/Roots/Root2_Mesh.fbx.meta
+Assets/Meshes/Roots/Root3_Mesh.fbx
+Assets/Meshes/Roots/Root3_Mesh.fbx.meta
+Assets/Meshes/Roots/Root4_Mesh.fbx
+Assets/Meshes/Roots/Root4_Mesh.fbx.meta
+Assets/Meshes/Roots/Root5_Mesh.fbx
+Assets/Meshes/Roots/Root5_Mesh.fbx.meta
+Assets/Meshes/Roots/Root6_Mesh.fbx
+Assets/Meshes/Roots/Root6_Mesh.fbx.meta
+Assets/Meshes/Roots/Root7_Mesh.fbx
+Assets/Meshes/Roots/Root7_Mesh.fbx.meta
+Assets/Meshes/Roots/Root8_Mesh.fbx
+Assets/Meshes/Roots/Root8_Mesh.fbx.meta
+Assets/Meshes/Roots/Root9_Mesh.fbx
+Assets/Meshes/Roots/Root9_Mesh.fbx.meta
+Assets/Meshes/Silla_Mesh.fbx
+Assets/Meshes/Silla_Mesh.fbx.meta
+Assets/Meshes/Sillon_Mesh.fbx
+Assets/Meshes/Sillon_Mesh.fbx.meta
+Assets/Meshes/Sofa_Mesh.fbx
+Assets/Meshes/Sofa_Mesh.fbx.meta
+Assets/Meshes/Statue.meta
+Assets/Meshes/Statue/panda_low_uv.fbx
+Assets/Meshes/Statue/panda_low_uv.fbx.meta
+Assets/Meshes/Statue/racoon_low.fbx
+Assets/Meshes/Statue/racoon_low.fbx.meta
+Assets/Meshes/Statue/raton_low_uv_bueno.fbx
+Assets/Meshes/Statue/raton_low_uv_bueno.fbx.meta
+Assets/Meshes/StatueBear_Mesh.fbx
+Assets/Meshes/StatueBear_Mesh.fbx.meta
+Assets/Meshes/StatueDog_Mesh.fbx
+Assets/Meshes/StatueDog_Mesh.fbx.meta
+Assets/Meshes/StatueMouse_Mesh.fbx
+Assets/Meshes/StatueMouse_Mesh.fbx.meta
+Assets/Meshes/StatueRacoon_Mesh.fbx
+Assets/Meshes/StatueRacoon_Mesh.fbx.meta
+Assets/Meshes/Tenderete02.fbx
+Assets/Meshes/Tenderete02.fbx.meta
+Assets/Meshes/TimmyHouse.meta
+Assets/Meshes/TimmyHouse/Alfombra_Mesh.fbx
+Assets/Meshes/TimmyHouse/Alfombra_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Banco_Mesh.fbx
+Assets/Meshes/TimmyHouse/Banco_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Bed_Mesh.fbx
+Assets/Meshes/TimmyHouse/Bed_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Chest_Mesh.fbx
+Assets/Meshes/TimmyHouse/Chest_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Chimney_Mesh.fbx
+Assets/Meshes/TimmyHouse/Chimney_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Estanteria_Mesh.fbx
+Assets/Meshes/TimmyHouse/Estanteria_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Floor_Mesh.fbx
+Assets/Meshes/TimmyHouse/Floor_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/JointWall_Mesh.fbx
+Assets/Meshes/TimmyHouse/JointWall_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/LamparaDeTecho_Mesh.fbx
+Assets/Meshes/TimmyHouse/LamparaDeTecho_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Lavadora_Mesh.fbx
+Assets/Meshes/TimmyHouse/Lavadora_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Mesa_Mesh.fbx
+Assets/Meshes/TimmyHouse/Mesa_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/MesaDeNoche_Mesh.fbx
+Assets/Meshes/TimmyHouse/MesaDeNoche_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Nevera_Mesh.fbx
+Assets/Meshes/TimmyHouse/Nevera_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Reloj_Mesh.fbx
+Assets/Meshes/TimmyHouse/Reloj_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Roof1_Mesh.fbx
+Assets/Meshes/TimmyHouse/Roof1_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Roof2_Mesh.fbx
+Assets/Meshes/TimmyHouse/Roof2_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/RoofDetail_Mesh.fbx
+Assets/Meshes/TimmyHouse/RoofDetail_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Silla_Mesh.fbx
+Assets/Meshes/TimmyHouse/Silla_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Sillon_Mesh.fbx
+Assets/Meshes/TimmyHouse/Sillon_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/Wall_Mesh.fbx
+Assets/Meshes/TimmyHouse/Wall_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/WallDoor_Mesh.fbx
+Assets/Meshes/TimmyHouse/WallDoor_Mesh.fbx.meta
+Assets/Meshes/TimmyHouse/WallWindow_Mesh.fbx
+Assets/Meshes/TimmyHouse/WallWindow_Mesh.fbx.meta
+Assets/Meshes/ToyTrain_Mesh.fbx
+Assets/Meshes/ToyTrain_Mesh.fbx.meta
+Assets/Meshes/Trash_Mesh.fbx
+Assets/Meshes/Trash_Mesh.fbx.meta
+Assets/Meshes/Tree04.fbx
+Assets/Meshes/Tree04.fbx.meta
+Assets/Meshes/Valla2.fbx
+Assets/Meshes/Valla2.fbx.meta
+Assets/Meshes/WoodenSword_Mesh.fbx
+Assets/Meshes/WoodenSword_Mesh.fbx.meta
+Assets/New HDRenderPipelineAsset.asset
+Assets/New HDRenderPipelineAsset.asset.meta
+Assets/New Terrain 1.asset
+Assets/New Terrain 1.asset.meta
+Assets/New Terrain 2.asset
+Assets/New Terrain 2.asset.meta
+Assets/New Terrain 4.asset
+Assets/New Terrain 4.asset.meta
+Assets/New Terrain.asset
+Assets/New Terrain.asset.meta
+Assets/Polytope Studio.meta
+Assets/Prefabs.meta
+Assets/Prefabs/Camara.prefab
+Assets/Prefabs/Camara.prefab.meta
+Assets/Prefabs/CamVillage.prefab
+Assets/Prefabs/CamVillage.prefab.meta
+Assets/Prefabs/Enemy.meta
+Assets/Prefabs/Enemy/Cube.prefab
+Assets/Prefabs/Enemy/Cube.prefab.meta
+Assets/Prefabs/Enemy/Enemy1Tank.prefab
+Assets/Prefabs/Enemy/Enemy1Tank.prefab.meta
+Assets/Prefabs/Enemy/Enemy2 Shy.prefab
+Assets/Prefabs/Enemy/Enemy2 Shy.prefab.meta
+Assets/Prefabs/Enemy/Enemy2.prefab
+Assets/Prefabs/Enemy/Enemy2.prefab.meta
+Assets/Prefabs/Enemy/Enemy2Hunter.prefab
+Assets/Prefabs/Enemy/Enemy2Hunter.prefab.meta
+Assets/Prefabs/Enemy/Enemy3 Screamer.prefab
+Assets/Prefabs/Enemy/Enemy3 Screamer.prefab.meta
+Assets/Prefabs/Enemy/Sleeping Enemy.prefab
+Assets/Prefabs/Enemy/Sleeping Enemy.prefab.meta
+Assets/Prefabs/Firefly.prefab
+Assets/Prefabs/Firefly.prefab.meta
+Assets/Prefabs/FountainPaticles.prefab
+Assets/Prefabs/FountainPaticles.prefab.meta
+Assets/Prefabs/House.meta
+Assets/Prefabs/MarkPrefab.prefab
+Assets/Prefabs/MarkPrefab.prefab.meta
+Assets/Prefabs/Menus.meta
+Assets/Prefabs/ModuleHouse.meta
+Assets/Prefabs/ModuleHouse/BasicWall.prefab
+Assets/Prefabs/ModuleHouse/BasicWall.prefab.meta
+Assets/Prefabs/ModuleHouse/CornerRoof.prefab
+Assets/Prefabs/ModuleHouse/CornerRoof.prefab.meta
+Assets/Prefabs/ModuleHouse/CornerWall.prefab
+Assets/Prefabs/ModuleHouse/CornerWall.prefab.meta
+Assets/Prefabs/ModuleHouse/DoorWall.prefab
+Assets/Prefabs/ModuleHouse/DoorWall.prefab.meta
+Assets/Prefabs/ModuleHouse/Floor.prefab
+Assets/Prefabs/ModuleHouse/Floor.prefab.meta
+Assets/Prefabs/ModuleHouse/Roof.prefab
+Assets/Prefabs/ModuleHouse/Roof.prefab.meta
+Assets/Prefabs/ModuleHouse/RoofWall.prefab
+Assets/Prefabs/ModuleHouse/RoofWall.prefab.meta
+Assets/Prefabs/ModuleHouse/WindowWall.prefab
+Assets/Prefabs/ModuleHouse/WindowWall.prefab.meta
+Assets/Prefabs/Player.prefab
+Assets/Prefabs/Player.prefab.meta
+Assets/Prefabs/Roots.meta
+Assets/Prefabs/Roots/Root1.prefab
+Assets/Prefabs/Roots/Root1.prefab.meta
+Assets/Prefabs/Roots/Root2.prefab
+Assets/Prefabs/Roots/Root2.prefab.meta
+Assets/Prefabs/Roots/Root3.prefab
+Assets/Prefabs/Roots/Root3.prefab.meta
+Assets/Prefabs/Roots/Root4.prefab
+Assets/Prefabs/Roots/Root4.prefab.meta
+Assets/Prefabs/Roots/Root5.prefab
+Assets/Prefabs/Roots/Root5.prefab.meta
+Assets/Prefabs/Roots/Root7.prefab
+Assets/Prefabs/Roots/Root7.prefab.meta
+Assets/Prefabs/Roots/Root9.prefab
+Assets/Prefabs/Roots/Root9.prefab.meta
+Assets/Prefabs/SettingsPanel .prefab
+Assets/Prefabs/SettingsPanel .prefab.meta
+Assets/Prefabs/StatueActivationBurst.prefab
+Assets/Prefabs/StatueActivationBurst.prefab.meta
+Assets/Prefabs/StatueImplosion.prefab
+Assets/Prefabs/StatueImplosion.prefab.meta
+Assets/Prefabs/StatueParticles.prefab
+Assets/Prefabs/StatueParticles.prefab.meta
+Assets/Prefabs/Village.meta
+Assets/Prefabs/Village/Banco.prefab
+Assets/Prefabs/Village/Banco.prefab.meta
+Assets/Prefabs/Village/HideSite.prefab
+Assets/Prefabs/Village/HideSite.prefab.meta
+Assets/Prefabs/Village/HouseNoInt.prefab
+Assets/Prefabs/Village/HouseNoInt.prefab.meta
+Assets/Prefabs/Village/MailBox03.fbx
+Assets/Prefabs/Village/MailBox03.fbx.meta
+Assets/Prefabs/Village/Rock_A_01.prefab
+Assets/Prefabs/Village/Rock_A_01.prefab.meta
+Assets/Prefabs/Village/Rock_A_02.prefab
+Assets/Prefabs/Village/Rock_A_02.prefab.meta
+Assets/Prefabs/Village/Rock_B_01.prefab
+Assets/Prefabs/Village/Rock_B_01.prefab.meta
+Assets/Prefabs/Village/Rock_B_02.prefab
+Assets/Prefabs/Village/Rock_B_02.prefab.meta
+Assets/Prefabs/Village/Rock_C_01.prefab
+Assets/Prefabs/Village/Rock_C_01.prefab.meta
+Assets/Prefabs/Village/Rock_C_02.prefab
+Assets/Prefabs/Village/Rock_C_02.prefab.meta
+Assets/Prefabs/Village/Rock_D.prefab
+Assets/Prefabs/Village/Rock_D.prefab.meta
+Assets/Prefabs/Village/Rock_Overgrown_A.prefab
+Assets/Prefabs/Village/Rock_Overgrown_A.prefab.meta
+Assets/Prefabs/Village/Rock_Overgrown_B.prefab
+Assets/Prefabs/Village/Rock_Overgrown_B.prefab.meta
+Assets/Prefabs/Village/Rock_Overgrown_C.prefab
+Assets/Prefabs/Village/Rock_Overgrown_C.prefab.meta
+Assets/Prefabs/Village/Rock_Overgrown_D.prefab
+Assets/Prefabs/Village/Rock_Overgrown_D.prefab.meta
+Assets/Prefabs/Village/Root.meta
+Assets/Prefabs/Village/Root/Root1.prefab
+Assets/Prefabs/Village/Root/Root1.prefab.meta
+Assets/Prefabs/Village/Root/Root2.prefab
+Assets/Prefabs/Village/Root/Root2.prefab.meta
+Assets/Prefabs/Village/Root/Root3.prefab
+Assets/Prefabs/Village/Root/Root3.prefab.meta
+Assets/Prefabs/Village/Root/Root4.prefab
+Assets/Prefabs/Village/Root/Root4.prefab.meta
+Assets/Prefabs/Village/Root/Root5.prefab
+Assets/Prefabs/Village/Root/Root5.prefab.meta
+Assets/Prefabs/Village/Root/Root6.prefab
+Assets/Prefabs/Village/Root/Root6.prefab.meta
+Assets/Prefabs/Village/Root/Root7.prefab
+Assets/Prefabs/Village/Root/Root7.prefab.meta
+Assets/Prefabs/Village/Root/Root8.prefab
+Assets/Prefabs/Village/Root/Root8.prefab.meta
+Assets/Prefabs/Village/Root/Root9.prefab
+Assets/Prefabs/Village/Root/Root9.prefab.meta
+Assets/Prefabs/Village/Street.prefab
+Assets/Prefabs/Village/Street.prefab.meta
+Assets/Prefabs/Village/Tenderete.prefab
+Assets/Prefabs/Village/Tenderete.prefab.meta
+Assets/Prefabs/Village/Tree04.prefab
+Assets/Prefabs/Village/Tree04.prefab.meta
+Assets/Prefabs/Village/Valla2.prefab
+Assets/Prefabs/Village/Valla2.prefab.meta
+Assets/Readme.asset
+Assets/Readme.asset.meta
+Assets/RealToon.meta
+Assets/Resources.meta
+Assets/Resources/HDRenderPipelineAsset.asset
+Assets/Resources/HDRenderPipelineAsset.asset.meta
+Assets/Resources/Prefabs.meta
+Assets/Resources/Prefabs/Enemies.meta
+Assets/Resources/Prefabs/GlobalManagers.prefab
+Assets/Resources/Prefabs/GlobalManagers.prefab.meta
+Assets/Samples.meta
+Assets/Scenes.meta
+Assets/Scenes/AnimationOutro.unity
+Assets/Scenes/AnimationOutro.unity.meta
+Assets/Scenes/AnimationStartGame.unity
+Assets/Scenes/AnimationStartGame.unity.meta
+Assets/Scenes/MainMenu.meta
+Assets/Scenes/MainMenu.unity
+Assets/Scenes/MainMenu.unity.meta
+Assets/Scenes/MainMenu/Sky and Fog Settings.asset
+Assets/Scenes/MainMenu/Sky and Fog Settings.asset.meta
+Assets/Scenes/mainSceneQuest.meta
+Assets/Scenes/mainSceneQuest.unity
+Assets/Scenes/mainSceneQuest.unity.meta
+Assets/Scenes/mainSceneQuest/NavMesh-Terrain (1).asset
+Assets/Scenes/mainSceneQuest/NavMesh-Terrain (1).asset.meta
+Assets/Scenes/mainSceneQuest/Sky and Fog Global Volume Profile.asset
+Assets/Scenes/mainSceneQuest/Sky and Fog Global Volume Profile.asset.meta
+Assets/Scenes/mainSceneQuest/Sky and Fog Settings.asset
+Assets/Scenes/mainSceneQuest/Sky and Fog Settings.asset.meta
+Assets/Scenes/Prueba.cs
+Assets/Scenes/Prueba.cs.meta
+Assets/Scenes/SettingsHouseMenu.unity
+Assets/Scenes/SettingsHouseMenu.unity.meta
+Assets/Scenes/SettingsMainMenu.unity
+Assets/Scenes/SettingsMainMenu.unity.meta
+Assets/Scenes/SettingsVillageMenu.unity
+Assets/Scenes/SettingsVillageMenu.unity.meta
+Assets/Scenes/TimmyHouse.meta
+Assets/Scenes/TimmyHouse/NavMesh-Floors.asset
+Assets/Scenes/TimmyHouse/NavMesh-Floors.asset.meta
+Assets/Scenes/TimmyHouse_Tutorial.meta
+Assets/Scenes/TimmyHouse_Tutorial.unity
+Assets/Scenes/TimmyHouse_Tutorial.unity.meta
+Assets/Scenes/TimmyHouse_Tutorial/NavMesh-DoorWall (4).asset
+Assets/Scenes/TimmyHouse_Tutorial/NavMesh-DoorWall (4).asset.meta
+Assets/Scenes/TimmyHouse_Tutorial/NavMesh-Floors.asset
+Assets/Scenes/TimmyHouse_Tutorial/NavMesh-Floors.asset.meta
+Assets/Scenes/TimmyHouse_Tutorial/Sky and Fog Settings.asset
+Assets/Scenes/TimmyHouse_Tutorial/Sky and Fog Settings.asset.meta
+Assets/Scenes/TimmyHouse_Tutorial_Profiles.meta
+Assets/Scenes/TimmyHouse_Tutorial_Profiles/Sky and Fog Global Volume Profile.asset
+Assets/Scenes/TimmyHouse_Tutorial_Profiles/Sky and Fog Global Volume Profile.asset.meta
+Assets/Scenes/Tree04.fbx
+Assets/Scenes/Tree04.fbx.meta
+Assets/Scenes/VillageLvl1.meta
+Assets/Scenes/VillageLvl1/LightingData.asset
+Assets/Scenes/VillageLvl1/LightingData.asset.meta
+Assets/Scenes/VillageLvl1/Lightmap-0_comp_dir.png
+Assets/Scenes/VillageLvl1/Lightmap-0_comp_dir.png.meta
+Assets/Scenes/VillageLvl1/Lightmap-0_comp_light.exr
+Assets/Scenes/VillageLvl1/Lightmap-0_comp_light.exr.meta
+Assets/Scenes/VillageLvl1/Lightmap-1_comp_dir.png
+Assets/Scenes/VillageLvl1/Lightmap-1_comp_dir.png.meta
+Assets/Scenes/VillageLvl1/Lightmap-1_comp_light.exr
+Assets/Scenes/VillageLvl1/Lightmap-1_comp_light.exr.meta
+Assets/Scenes/VillageLvl1/Lightmap-2_comp_dir.png
+Assets/Scenes/VillageLvl1/Lightmap-2_comp_dir.png.meta
+Assets/Scenes/VillageLvl1/Lightmap-2_comp_light.exr
+Assets/Scenes/VillageLvl1/Lightmap-2_comp_light.exr.meta
+Assets/Scenes/VillageLvl1/Lightmap-3_comp_dir.png
+Assets/Scenes/VillageLvl1/Lightmap-3_comp_dir.png.meta
+Assets/Scenes/VillageLvl1/Lightmap-3_comp_light.exr
+Assets/Scenes/VillageLvl1/Lightmap-3_comp_light.exr.meta
+Assets/Scenes/VillageLvl1/Lightmap-4_comp_dir.png
+Assets/Scenes/VillageLvl1/Lightmap-4_comp_dir.png.meta
+Assets/Scenes/VillageLvl1/Lightmap-4_comp_light.exr
+Assets/Scenes/VillageLvl1/Lightmap-4_comp_light.exr.meta
+Assets/Scenes/VillageLvl1/Lightmap-5_comp_dir.png
+Assets/Scenes/VillageLvl1/Lightmap-5_comp_dir.png.meta
+Assets/Scenes/VillageLvl1/Lightmap-5_comp_light.exr
+Assets/Scenes/VillageLvl1/Lightmap-5_comp_light.exr.meta
+Assets/Scenes/VillageLvl1/Lightmap-6_comp_dir.png
+Assets/Scenes/VillageLvl1/Lightmap-6_comp_dir.png.meta
+Assets/Scenes/VillageLvl1/Lightmap-6_comp_light.exr
+Assets/Scenes/VillageLvl1/Lightmap-6_comp_light.exr.meta
+Assets/Scenes/VillageLvl1/Lightmap-7_comp_dir.png
+Assets/Scenes/VillageLvl1/Lightmap-7_comp_dir.png.meta
+Assets/Scenes/VillageLvl1/Lightmap-7_comp_light.exr
+Assets/Scenes/VillageLvl1/Lightmap-7_comp_light.exr.meta
+Assets/Scenes/VillageLvl1/Lightmap-8_comp_dir.png
+Assets/Scenes/VillageLvl1/Lightmap-8_comp_dir.png.meta
+Assets/Scenes/VillageLvl1/Lightmap-8_comp_light.exr
+Assets/Scenes/VillageLvl1/Lightmap-8_comp_light.exr.meta
+Assets/Scenes/VillageLvl1/NavMesh-Terrain.asset
+Assets/Scenes/VillageLvl1/NavMesh-Terrain.asset.meta
+Assets/Scenes/VillageLvl1/VillageLvl1 Baking Set.asset
+Assets/Scenes/VillageLvl1/VillageLvl1 Baking Set.asset.meta
+Assets/Scenes/VoidTalk.meta
+Assets/Scenes/VoidTalk.unity
+Assets/Scenes/VoidTalk.unity.meta
+Assets/Scenes/VoidTalk/NavMesh-Terrain.asset
+Assets/Scenes/VoidTalk/NavMesh-Terrain.asset.meta
+Assets/Scenes/VoidTalk/Sky and Fog Settings.asset
+Assets/Scenes/VoidTalk/Sky and Fog Settings.asset.meta
+Assets/SceneTemplateAssets.meta
+Assets/Scripts.meta
+Assets/Scripts/AnimationOutro.cs
+Assets/Scripts/AnimationOutro.cs.meta
+Assets/Scripts/AutoSaveSystem.cs
+Assets/Scripts/AutoSaveSystem.cs.meta
+Assets/Scripts/Camera.meta
+Assets/Scripts/Camera/LockOnTarget.cs
+Assets/Scripts/Camera/LockOnTarget.cs.meta
+Assets/Scripts/Camera/ThirdPersonCamera.cs
+Assets/Scripts/Camera/ThirdPersonCamera.cs.meta
+Assets/Scripts/CentralFountainController.cs
+Assets/Scripts/CentralFountainController.cs.meta
+Assets/Scripts/Core.meta
+Assets/Scripts/Core/AutoSaveManager.cs
+Assets/Scripts/Core/AutoSaveManager.cs.meta
+Assets/Scripts/Core/GameManager.cs
+Assets/Scripts/Core/GameManager.cs.meta
+Assets/Scripts/Core/SaveIntegrityChecker.cs
+Assets/Scripts/Core/SaveIntegrityChecker.cs.meta
+Assets/Scripts/Core/SaveSystem.cs
+Assets/Scripts/Core/SaveSystem.cs.meta
+Assets/Scripts/Diosa.meta
+Assets/Scripts/Diosa/DialogueUIManager.cs
+Assets/Scripts/Diosa/DialogueUIManager.cs.meta
+Assets/Scripts/Diosa/GoddessController.cs
+Assets/Scripts/Diosa/GoddessController.cs.meta
+Assets/Scripts/Diosa/HDRPEnvironmentManager.cs
+Assets/Scripts/Diosa/HDRPEnvironmentManager.cs.meta
+Assets/Scripts/Diosa/SettingsGod.cs
+Assets/Scripts/Diosa/SettingsGod.cs.meta
+Assets/Scripts/Door.meta
+Assets/Scripts/Door/DoorSequenceController.cs
+Assets/Scripts/Door/DoorSequenceController.cs.meta
+Assets/Scripts/Door/ExitDoorTrigger.cs
+Assets/Scripts/Door/ExitDoorTrigger.cs.meta
+Assets/Scripts/Enemy.meta
+Assets/Scripts/Enemy/EnemyHitbox.cs
+Assets/Scripts/Enemy/EnemyHitbox.cs.meta
+Assets/Scripts/Enemy/EnemyIA2.cs
+Assets/Scripts/Enemy/EnemyIA2.cs.meta
+Assets/Scripts/Enemy/EnemyIAVillage.cs
+Assets/Scripts/Enemy/EnemyIAVillage.cs.meta
+Assets/Scripts/Enemy/ILockOnVisuals.cs
+Assets/Scripts/Enemy/ILockOnVisuals.cs.meta
+Assets/Scripts/Enemy/LightVulnerableEnemy.cs
+Assets/Scripts/Enemy/LightVulnerableEnemy.cs.meta
+Assets/Scripts/Enemy/NewEra.meta
+Assets/Scripts/Enemy/NewEra/EnemyAIProfile.cs
+Assets/Scripts/Enemy/NewEra/EnemyAIProfile.cs.meta
+Assets/Scripts/Enemy/NewEra/EnemyBase.cs
+Assets/Scripts/Enemy/NewEra/EnemyBase.cs.meta
+Assets/Scripts/Enemy/NewEra/EnemyIA_Hunter.cs
+Assets/Scripts/Enemy/NewEra/EnemyIA_Hunter.cs.meta
+Assets/Scripts/Enemy/NewEra/EnemyIA_Screamer.cs
+Assets/Scripts/Enemy/NewEra/EnemyIA_Screamer.cs.meta
+Assets/Scripts/Enemy/NewEra/EnemyIA_Shy.cs
+Assets/Scripts/Enemy/NewEra/EnemyIA_Shy.cs.meta
+Assets/Scripts/Enemy/NewEra/EnemyIA_Tank.cs
+Assets/Scripts/Enemy/NewEra/EnemyIA_Tank.cs.meta
+Assets/Scripts/Enemy/NewEra/EnemyIA_Thrower.cs
+Assets/Scripts/Enemy/NewEra/EnemyIA_Thrower.cs.meta
+Assets/Scripts/Enemy/NewEra/EnemyPlacementManager.cs
+Assets/Scripts/Enemy/NewEra/EnemyPlacementManager.cs.meta
+Assets/Scripts/Enemy/NewEra/EnemyTrapSpawner.cs
+Assets/Scripts/Enemy/NewEra/EnemyTrapSpawner.cs.meta
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinition.cs
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinition.cs.meta
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinitions.meta
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinitions/ETD_Hunter.asset
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinitions/ETD_Hunter.asset.meta
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinitions/ETD_Screamer.asset
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinitions/ETD_Screamer.asset.meta
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinitions/ETD_Shy.asset
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinitions/ETD_Shy.asset.meta
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinitions/ETD_Tank.asset
+Assets/Scripts/Enemy/NewEra/EnemyTypeDefinitions/ETD_Tank.asset.meta
+Assets/Scripts/Enemy/NewEra/HunterProfile.asset
+Assets/Scripts/Enemy/NewEra/HunterProfile.asset.meta
+Assets/Scripts/Enemy/NewEra/PlacementProfile.cs
+Assets/Scripts/Enemy/NewEra/PlacementProfile.cs.meta
+Assets/Scripts/Enemy/NewEra/PlacementProfile.meta
+Assets/Scripts/Enemy/NewEra/PlacementProfile/PP_MainLevel_Standard.asset
+Assets/Scripts/Enemy/NewEra/PlacementProfile/PP_MainLevel_Standard.asset.meta
+Assets/Scripts/Enemy/NewEra/PlacementRule.cs
+Assets/Scripts/Enemy/NewEra/PlacementRule.cs.meta
+Assets/Scripts/Enemy/NewEra/PlacementZone.cs
+Assets/Scripts/Enemy/NewEra/PlacementZone.cs.meta
+Assets/Scripts/Enemy/NewEra/Projectile.cs
+Assets/Scripts/Enemy/NewEra/Projectile.cs.meta
+Assets/Scripts/Enemy/NewEra/ScreamerProfile.asset
+Assets/Scripts/Enemy/NewEra/ScreamerProfile.asset.meta
+Assets/Scripts/Enemy/NewEra/ShyProfile.asset
+Assets/Scripts/Enemy/NewEra/ShyProfile.asset.meta
+Assets/Scripts/Enemy/NewEra/StrategicPoint.cs
+Assets/Scripts/Enemy/NewEra/StrategicPoint.cs.meta
+Assets/Scripts/Enemy/NewEra/TankProfile.asset
+Assets/Scripts/Enemy/NewEra/TankProfile.asset.meta
+Assets/Scripts/Enemy/NewEra/ThrowerProfile.asset
+Assets/Scripts/Enemy/NewEra/ThrowerProfile.asset.meta
+Assets/Scripts/Enemy/SleepingEnemyController.cs
+Assets/Scripts/Enemy/SleepingEnemyController.cs.meta
+Assets/Scripts/FireFly.meta
+Assets/Scripts/FireFly/FireflyFusion.cs
+Assets/Scripts/FireFly/FireflyFusion.cs.meta
+Assets/Scripts/FireFly/FireflyGuide.cs
+Assets/Scripts/FireFly/FireflyGuide.cs.meta
+Assets/Scripts/GameInitializer.cs
+Assets/Scripts/GameInitializer.cs.meta
+Assets/Scripts/GameStateManager.cs
+Assets/Scripts/GameStateManager.cs.meta
+Assets/Scripts/GodDialogue.cs
+Assets/Scripts/GodDialogue.cs.meta
+Assets/Scripts/ILightReactive.cs
+Assets/Scripts/ILightReactive.cs.meta
+Assets/Scripts/Interactable.meta
+Assets/Scripts/Interactable/IInteractable.cs
+Assets/Scripts/Interactable/IInteractable.cs.meta
+Assets/Scripts/Interactable/InteractableDoor.cs
+Assets/Scripts/Interactable/InteractableDoor.cs.meta
+Assets/Scripts/Interactable/InteractableFlashlight.cs
+Assets/Scripts/Interactable/InteractableFlashlight.cs.meta
+Assets/Scripts/Interactable/InteractableObject.cs
+Assets/Scripts/Interactable/InteractableObject.cs.meta
+Assets/Scripts/Interactable/InteractionPromptManager.cs
+Assets/Scripts/Interactable/InteractionPromptManager.cs.meta
+Assets/Scripts/Interactable/LightInteractiveVines.cs
+Assets/Scripts/Interactable/LightInteractiveVines.cs.meta
+Assets/Scripts/Interactable/TriggerArea.cs
+Assets/Scripts/Interactable/TriggerArea.cs.meta
+Assets/Scripts/Lamp.meta
+Assets/Scripts/Lamp/ILampController.cs
+Assets/Scripts/Lamp/ILampController.cs.meta
+Assets/Scripts/Lamp/LampSystem.cs
+Assets/Scripts/Lamp/LampSystem.cs.meta
+Assets/Scripts/Managers.meta
+Assets/Scripts/Managers/ProximityEffectsController.cs
+Assets/Scripts/Managers/ProximityEffectsController.cs.meta
+Assets/Scripts/Managers/UIManager.cs
+Assets/Scripts/Managers/UIManager.cs.meta
+Assets/Scripts/Menus.meta
+Assets/Scripts/Menus/AnimationsMenu.cs
+Assets/Scripts/Menus/AnimationsMenu.cs.meta
+Assets/Scripts/Menus/AudioManager.cs
+Assets/Scripts/Menus/AudioManager.cs.meta
+Assets/Scripts/Menus/GameOverController.cs
+Assets/Scripts/Menus/GameOverController.cs.meta
+Assets/Scripts/Menus/MainMenuController.cs
+Assets/Scripts/Menus/MainMenuController.cs.meta
+Assets/Scripts/Menus/PauseMenuController.cs
+Assets/Scripts/Menus/PauseMenuController.cs.meta
+Assets/Scripts/Menus/SettingsManager.cs
+Assets/Scripts/Menus/SettingsManager.cs.meta
+Assets/Scripts/Menus/SettingsMenuController.cs
+Assets/Scripts/Menus/SettingsMenuController.cs.meta
+Assets/Scripts/Misions.meta
+Assets/Scripts/Misions/LockOnTutorialTrigger.cs
+Assets/Scripts/Misions/LockOnTutorialTrigger.cs.meta
+Assets/Scripts/Misions/QuestManager.cs
+Assets/Scripts/Misions/QuestManager.cs.meta
+Assets/Scripts/Misions/TutorialActivationTrigger.cs
+Assets/Scripts/Misions/TutorialActivationTrigger.cs.meta
+Assets/Scripts/Misions/TutorialQuestManager.cs
+Assets/Scripts/Misions/TutorialQuestManager.cs.meta
+Assets/Scripts/Misions/TutorialSequenceController.cs
+Assets/Scripts/Misions/TutorialSequenceController.cs.meta
+Assets/Scripts/Misions/VillageQuestManager.cs
+Assets/Scripts/Misions/VillageQuestManager.cs.meta
+Assets/Scripts/Player.meta
+Assets/Scripts/Player/BasePlayerState.cs
+Assets/Scripts/Player/BasePlayerState.cs.meta
+Assets/Scripts/Player/InputSystem_Actions.cs
+Assets/Scripts/Player/InputSystem_Actions.cs.meta
+Assets/Scripts/Player/InputSystem_Actions.inputactions
+Assets/Scripts/Player/InputSystem_Actions.inputactions.meta
+Assets/Scripts/Player/PlayerController.cs
+Assets/Scripts/Player/PlayerController.cs.meta
+Assets/Scripts/Player/PlayerDamageEffects.cs
+Assets/Scripts/Player/PlayerDamageEffects.cs.meta
+Assets/Scripts/Player/PlayerStateMachine.cs
+Assets/Scripts/Player/PlayerStateMachine.cs.meta
+Assets/Scripts/SceneLoadManager.cs
+Assets/Scripts/SceneLoadManager.cs.meta
+Assets/Scripts/Sequence.meta
+Assets/Scripts/Sequence/SequenceTrigger.cs
+Assets/Scripts/Sequence/SequenceTrigger.cs.meta
+Assets/Scripts/Statue.meta
+Assets/Scripts/Statue/BEAR.asset
+Assets/Scripts/Statue/BEAR.asset.meta
+Assets/Scripts/Statue/DOG.asset
+Assets/Scripts/Statue/DOG.asset.meta
+Assets/Scripts/Statue/MOUSE.asset
+Assets/Scripts/Statue/MOUSE.asset.meta
+Assets/Scripts/Statue/RACCOON.asset
+Assets/Scripts/Statue/RACCOON.asset.meta
+Assets/Scripts/Statue/StatueCollectable.cs
+Assets/Scripts/Statue/StatueCollectable.cs.meta
+Assets/Scripts/Statue/StatueEvents.cs
+Assets/Scripts/Statue/StatueEvents.cs.meta
+Assets/Scripts/Statue/StatueInteractable.cs
+Assets/Scripts/Statue/StatueInteractable.cs.meta
+Assets/Scripts/Statue/StatueStory.cs
+Assets/Scripts/Statue/StatueStory.cs.meta
+Assets/Scripts/Statue/StatueUI.cs
+Assets/Scripts/Statue/StatueUI.cs.meta
+Assets/Scripts/Statue/StatueUIManager.cs
+Assets/Scripts/Statue/StatueUIManager.cs.meta
+Assets/Scripts/VideoEndHandler.cs
+Assets/Scripts/VideoEndHandler.cs.meta
+Assets/Settings.meta
+Assets/Settings/Build Profiles.meta
+Assets/Settings/Build Profiles/New Windows Profile 1.asset
+Assets/Settings/Build Profiles/New Windows Profile 1.asset.meta
+Assets/Settings/Build Profiles/New Windows Profile.asset
+Assets/Settings/Build Profiles/New Windows Profile.asset.meta
+Assets/Settings/DefaultVolumeProfile.asset
+Assets/Settings/DefaultVolumeProfile.asset.meta
+Assets/Settings/Mobile_Renderer.asset
+Assets/Settings/Mobile_Renderer.asset.meta
+Assets/Settings/Mobile_RPAsset.asset
+Assets/Settings/Mobile_RPAsset.asset.meta
+Assets/Settings/PC_Renderer.asset
+Assets/Settings/PC_Renderer.asset.meta
+Assets/Settings/PC_RPAsset.asset
+Assets/Settings/PC_RPAsset.asset.meta
+Assets/Settings/SampleSceneProfile.asset
+Assets/Settings/SampleSceneProfile.asset.meta
+Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta
+Assets/TerrainData_171de22e-d1ab-4145-b189-49c63ff33531.asset
+Assets/TerrainData_171de22e-d1ab-4145-b189-49c63ff33531.asset.meta
+Assets/TerrainData_18769121-7004-49f1-a96a-e2d6caa08bd8.asset
+Assets/TerrainData_18769121-7004-49f1-a96a-e2d6caa08bd8.asset.meta
+Assets/TerrainData_2282be36-5ae0-4b8c-bb0e-22a0f435d7e4.asset
+Assets/TerrainData_2282be36-5ae0-4b8c-bb0e-22a0f435d7e4.asset.meta
+Assets/TerrainData_2ea850f8-d112-4aab-a43d-c064154f1d6d.asset
+Assets/TerrainData_2ea850f8-d112-4aab-a43d-c064154f1d6d.asset.meta
+Assets/TerrainData_64215b82-15bf-46fe-a0a7-73bb07bca134.asset
+Assets/TerrainData_64215b82-15bf-46fe-a0a7-73bb07bca134.asset.meta
+Assets/TerrainData_9e616ab5-a493-4603-a8d2-9b2638e5a613.asset
+Assets/TerrainData_9e616ab5-a493-4603-a8d2-9b2638e5a613.asset.meta
+Assets/TerrainData_c84ef0f6-28b6-4134-bacc-351263d98b5e.asset
+Assets/TerrainData_c84ef0f6-28b6-4134-bacc-351263d98b5e.asset.meta
+Assets/TerrainData_d76f4c69-8a39-4d39-a351-c375b8fd78c2.asset
+Assets/TerrainData_d76f4c69-8a39-4d39-a351-c375b8fd78c2.asset.meta
+Assets/TerrainData_df283014-eb93-41a6-a815-b722d770cdf1.asset
+Assets/TerrainData_df283014-eb93-41a6-a815-b722d770cdf1.asset.meta
+Assets/TerrainDemoScene_HDRP.meta
+Assets/TerrainSampleAssets.meta
+Assets/TextMesh Pro.meta
+Assets/TextMesh Pro/Examples & Extras.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold - AFL.txt
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold - AFL.txt.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold - License.txt
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold - License.txt.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Unity - OFL.txt
+Assets/TextMesh Pro/Examples & Extras/Fonts/Unity - OFL.txt.meta
+Assets/TextMesh Pro/Examples & Extras/Fonts/Unity.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Unity.ttf.meta
+Assets/TextMesh Pro/Examples & Extras/Materials.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene_MaskMap.png
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene_MaskMap.png.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - URP.mat
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - URP.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - URP.mat
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - URP.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat
+Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Prefabs.meta
+Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab.meta
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab.meta
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab.meta
+Assets/TextMesh Pro/Examples & Extras/Resources.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow - 2 Pass.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow - 2 Pass.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo - URP.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo - URP.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - HDRP Unlit.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - HDRP Unlit.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - URP.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - URP.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Bloom.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Bloom.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Outline.mat
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Outline.mat.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example URP.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example URP.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/27 - Double Pass Shader Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/27 - Double Pass Shader Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example.unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example/Sky and Fog Volume Profile.asset
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example/Sky and Fog Volume Profile.asset.meta
+Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs.meta
+Assets/TextMesh Pro/Examples & Extras/Sprites.meta
+Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png.meta
+Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd.meta
+Assets/TextMesh Pro/Examples & Extras/Textures.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd.meta
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd.meta
+Assets/TextMesh Pro/Fonts.meta
+Assets/TextMesh Pro/Fonts/baskerville-old-face SDF.asset
+Assets/TextMesh Pro/Fonts/baskerville-old-face SDF.asset.meta
+Assets/TextMesh Pro/Fonts/baskerville-old-face.ttf
+Assets/TextMesh Pro/Fonts/baskerville-old-face.ttf.meta
+Assets/TextMesh Pro/Fonts/InterBold.asset
+Assets/TextMesh Pro/Fonts/InterBold.asset.meta
+Assets/TextMesh Pro/Fonts/InterBold.otf
+Assets/TextMesh Pro/Fonts/InterBold.otf.meta
+Assets/TextMesh Pro/Fonts/InterRegular.asset
+Assets/TextMesh Pro/Fonts/InterRegular.asset.meta
+Assets/TextMesh Pro/Fonts/InterRegular.otf
+Assets/TextMesh Pro/Fonts/InterRegular.otf.meta
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+Assets/TextMesh Pro/Fonts/License.txt
+Assets/TextMesh Pro/Fonts/License.txt.meta
+Assets/TextMesh Pro/Resources.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+Assets/TextMesh Pro/Resources/Sprite Assets.meta
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+Assets/TextMesh Pro/Resources/Style Sheets.meta
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+Assets/TextMesh Pro/Resources/TMP Settings.asset
+Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+Assets/TextMesh Pro/Shaders.meta
+Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl
+Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+Assets/TextMesh Pro/Shaders/TMPro.cginc
+Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+Assets/TextMesh Pro/Sprites.meta
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+Assets/TextMesh Pro/Sprites/EmojiOne.json
+Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+Assets/TextMesh Pro/Sprites/EmojiOne.png
+Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+Assets/TutorialInfo.meta
+Assets/TutorialInfo/Icons.meta
+Assets/TutorialInfo/Icons/URP.png
+Assets/TutorialInfo/Icons/URP.png.meta
+Assets/TutorialInfo/Layout.wlt
+Assets/TutorialInfo/Layout.wlt.meta
+Assets/TutorialInfo/Scripts.meta
+Assets/TutorialInfo/Scripts/Editor.meta
+Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
+Assets/TutorialInfo/Scripts/Readme.cs
+Assets/TutorialInfo/Scripts/Readme.cs.meta
+Assets/UiStuff.meta
+Assets/UiStuff/Cursor PNG.png
+Assets/UiStuff/Cursor PNG.png.meta
+Assets/UiStuff/Death final PNG.png
+Assets/UiStuff/Death final PNG.png.meta
+Assets/UiStuff/Fonts.meta
+Assets/UiStuff/Fonts/baskerville-old-face_freefontdownload_org.zip
+Assets/UiStuff/Fonts/baskerville-old-face_freefontdownload_org.zip.meta
+Assets/UiStuff/Icon2.png
+Assets/UiStuff/Icon2.png.meta
+Assets/UiStuff/Icono-won.png
+Assets/UiStuff/Icono-won.png.meta
+Assets/UiStuff/Icono2.ico
+Assets/UiStuff/Icono2.ico.meta
+Assets/UiStuff/Imagen Fondo UI PNG.jpg
+Assets/UiStuff/Imagen Fondo UI PNG.jpg.meta
+Assets/UiStuff/IMG_0508.PNG
+Assets/UiStuff/IMG_0508.PNG.meta
+Assets/UiStuff/IMG_3037.PNG
+Assets/UiStuff/IMG_3037.PNG.meta
+Assets/UiStuff/Lamp Bold PNG.PNG
+Assets/UiStuff/Lamp Bold PNG.PNG.meta
+Assets/UiStuff/Lamp PNG.png
+Assets/UiStuff/Lamp PNG.png.meta
+Assets/UiStuff/Mapache1.png
+Assets/UiStuff/Mapache1.png.meta
+Assets/UiStuff/Marco Dialog PNG.png
+Assets/UiStuff/Marco Dialog PNG.png.meta
+Assets/UiStuff/Marco estatuas (2).png
+Assets/UiStuff/Marco estatuas (2).png.meta
+Assets/UiStuff/Panda 1.png
+Assets/UiStuff/Panda 1.png.meta
+Assets/UiStuff/Perro1.png
+Assets/UiStuff/Perro1.png.meta
+Assets/UiStuff/Stamina.png
+Assets/UiStuff/Stamina.png.meta
+Assets/VFX.meta
+Assets/VFX/Effects.meta
+Assets/VFX/Effects/AlertScreamer.mp3
+Assets/VFX/Effects/AlertScreamer.mp3.meta
+Assets/VFX/Effects/AllactivationgstatueFinal.wav
+Assets/VFX/Effects/AllactivationgstatueFinal.wav.meta
+Assets/VFX/Effects/ANderOn.wav
+Assets/VFX/Effects/ANderOn.wav.meta
+Assets/VFX/Effects/anderradio.wav
+Assets/VFX/Effects/anderradio.wav.meta
+Assets/VFX/Effects/avala-trail-forest-nature-246779.mp3
+Assets/VFX/Effects/avala-trail-forest-nature-246779.mp3.meta
+Assets/VFX/Effects/breath-6155.mp3
+Assets/VFX/Effects/breath-6155.mp3.meta
+Assets/VFX/Effects/CloseDoor.mp3
+Assets/VFX/Effects/CloseDoor.mp3.meta
+Assets/VFX/Effects/door-lock-98655.mp3
+Assets/VFX/Effects/door-lock-98655.mp3.meta
+Assets/VFX/Effects/Enemy3Walk 1.mp3
+Assets/VFX/Effects/Enemy3Walk 1.mp3.meta
+Assets/VFX/Effects/Enemy3Walk.mp3
+Assets/VFX/Effects/Enemy3Walk.mp3.meta
+Assets/VFX/Effects/FireDeadEnemy.mp3
+Assets/VFX/Effects/FireDeadEnemy.mp3.meta
+Assets/VFX/Effects/ForestWalk.wav
+Assets/VFX/Effects/ForestWalk.wav.meta
+Assets/VFX/Effects/heavy-breath.mp3
+Assets/VFX/Effects/heavy-breath.mp3.meta
+Assets/VFX/Effects/HitTank.wav
+Assets/VFX/Effects/HitTank.wav.meta
+Assets/VFX/Effects/horrorambiance.mp3
+Assets/VFX/Effects/horrorambiance.mp3.meta
+Assets/VFX/Effects/JassonOn.wav
+Assets/VFX/Effects/JassonOn.wav.meta
+Assets/VFX/Effects/jassonRadio.wav
+Assets/VFX/Effects/jassonRadio.wav.meta
+Assets/VFX/Effects/LazaroOn.wav
+Assets/VFX/Effects/LazaroOn.wav.meta
+Assets/VFX/Effects/Lazaroradio.wav
+Assets/VFX/Effects/Lazaroradio.wav.meta
+Assets/VFX/Effects/LockedDoor.mp3
+Assets/VFX/Effects/LockedDoor.mp3.meta
+Assets/VFX/Effects/LyriaSpeech1de9.mp3
+Assets/VFX/Effects/LyriaSpeech1de9.mp3.meta
+Assets/VFX/Effects/LyriaSpeech2.mp3
+Assets/VFX/Effects/LyriaSpeech2.mp3.meta
+Assets/VFX/Effects/LyriaSpeech2de9.mp3
+Assets/VFX/Effects/LyriaSpeech2de9.mp3.meta
+Assets/VFX/Effects/LyriaSpeech3de9.mp3
+Assets/VFX/Effects/LyriaSpeech3de9.mp3.meta
+Assets/VFX/Effects/LyriaSpeech4de9.mp3
+Assets/VFX/Effects/LyriaSpeech4de9.mp3.meta
+Assets/VFX/Effects/LyriaSpeech5de9.mp3
+Assets/VFX/Effects/LyriaSpeech5de9.mp3.meta
+Assets/VFX/Effects/LyriaSpeech6de9.mp3
+Assets/VFX/Effects/LyriaSpeech6de9.mp3.meta
+Assets/VFX/Effects/LyriaSpeech7de9.mp3
+Assets/VFX/Effects/LyriaSpeech7de9.mp3.meta
+Assets/VFX/Effects/LyriaSpeech8de9.mp3
+Assets/VFX/Effects/LyriaSpeech8de9.mp3.meta
+Assets/VFX/Effects/LyriaSpeech9de9.mp3
+Assets/VFX/Effects/LyriaSpeech9de9.mp3.meta
+Assets/VFX/Effects/NewAudios.meta
+Assets/VFX/Effects/NewAudios/algoseguirapasando.wav
+Assets/VFX/Effects/NewAudios/algoseguirapasando.wav.meta
+Assets/VFX/Effects/NewAudios/algovaapasarlasaquela.wav
+Assets/VFX/Effects/NewAudios/algovaapasarlasaquela.wav.meta
+Assets/VFX/Effects/NewAudios/algovaappasar.wav
+Assets/VFX/Effects/NewAudios/algovaappasar.wav.meta
+Assets/VFX/Effects/NewAudios/AlgoVaPasar.wav
+Assets/VFX/Effects/NewAudios/AlgoVaPasar.wav.meta
+Assets/VFX/Effects/NewAudios/allactivationgstatue.wav
+Assets/VFX/Effects/NewAudios/allactivationgstatue.wav.meta
+Assets/VFX/Effects/NewAudios/AllStatueActivationMaybe.wav
+Assets/VFX/Effects/NewAudios/AllStatueActivationMaybe.wav.meta
+Assets/VFX/Effects/NewAudios/ambientacion.wav
+Assets/VFX/Effects/NewAudios/ambientacion.wav.meta
+Assets/VFX/Effects/NewAudios/anderbeforestatue.wav
+Assets/VFX/Effects/NewAudios/anderbeforestatue.wav.meta
+Assets/VFX/Effects/NewAudios/anderonstatue.wav
+Assets/VFX/Effects/NewAudios/anderonstatue.wav.meta
+Assets/VFX/Effects/NewAudios/caminatabosque.wav
+Assets/VFX/Effects/NewAudios/caminatabosque.wav.meta
+Assets/VFX/Effects/NewAudios/casa de timmyfondo.wav
+Assets/VFX/Effects/NewAudios/casa de timmyfondo.wav.meta
+Assets/VFX/Effects/NewAudios/completamision.wav
+Assets/VFX/Effects/NewAudios/completamision.wav.meta
+Assets/VFX/Effects/NewAudios/corazon1tick.wav
+Assets/VFX/Effects/NewAudios/corazon1tick.wav.meta
+Assets/VFX/Effects/NewAudios/corazonmultitick.wav
+Assets/VFX/Effects/NewAudios/corazonmultitick.wav.meta
+Assets/VFX/Effects/NewAudios/EnemyWatchPlayer.wav
+Assets/VFX/Effects/NewAudios/EnemyWatchPlayer.wav.meta
+Assets/VFX/Effects/NewAudios/fireflystatueoff.wav
+Assets/VFX/Effects/NewAudios/fireflystatueoff.wav.meta
+Assets/VFX/Effects/NewAudios/GetHurt.wav
+Assets/VFX/Effects/NewAudios/GetHurt.wav.meta
+Assets/VFX/Effects/NewAudios/Grabs.mp3
+Assets/VFX/Effects/NewAudios/Grabs.mp3.meta
+Assets/VFX/Effects/NewAudios/heart.wav
+Assets/VFX/Effects/NewAudios/heart.wav.meta
+Assets/VFX/Effects/NewAudios/jassonbeforeonstatue.wav
+Assets/VFX/Effects/NewAudios/jassonbeforeonstatue.wav.meta
+Assets/VFX/Effects/NewAudios/jassononstatue.wav
+Assets/VFX/Effects/NewAudios/jassononstatue.wav.meta
+Assets/VFX/Effects/NewAudios/JumpLanding.wav
+Assets/VFX/Effects/NewAudios/JumpLanding.wav.meta
+Assets/VFX/Effects/NewAudios/lazarobeforestatue.wav
+Assets/VFX/Effects/NewAudios/lazarobeforestatue.wav.meta
+Assets/VFX/Effects/NewAudios/lazaroonstatue.wav
+Assets/VFX/Effects/NewAudios/lazaroonstatue.wav.meta
+Assets/VFX/Effects/NewAudios/luciernaga.wav
+Assets/VFX/Effects/NewAudios/luciernaga.wav.meta
+Assets/VFX/Effects/NewAudios/madreroar.wav
+Assets/VFX/Effects/NewAudios/madreroar.wav.meta
+Assets/VFX/Effects/NewAudios/menu-selection.wav
+Assets/VFX/Effects/NewAudios/menu-selection.wav.meta
+Assets/VFX/Effects/NewAudios/padreroar.wav
+Assets/VFX/Effects/NewAudios/padreroar.wav.meta
+Assets/VFX/Effects/NewAudios/paolabeforeonstatue.wav
+Assets/VFX/Effects/NewAudios/paolabeforeonstatue.wav.meta
+Assets/VFX/Effects/NewAudios/paolaonstatue.wav
+Assets/VFX/Effects/NewAudios/paolaonstatue.wav.meta
+Assets/VFX/Effects/NewAudios/puerta.wav
+Assets/VFX/Effects/NewAudios/puerta.wav.meta
+Assets/VFX/Effects/NewAudios/rompetimpanos.wav
+Assets/VFX/Effects/NewAudios/rompetimpanos.wav.meta
+Assets/VFX/Effects/NewAudios/sequencegod.wav
+Assets/VFX/Effects/NewAudios/sequencegod.wav.meta
+Assets/VFX/Effects/NewAudios/unlockDoor.wav
+Assets/VFX/Effects/NewAudios/unlockDoor.wav.meta
+Assets/VFX/Effects/NewAudios/walking-on-wooden1.wav
+Assets/VFX/Effects/NewAudios/walking-on-wooden1.wav.meta
+Assets/VFX/Effects/NewAudios/walking-on-wooden2.wav
+Assets/VFX/Effects/NewAudios/walking-on-wooden2.wav.meta
+Assets/VFX/Effects/NewAudios/walking-through-grass-1.wav
+Assets/VFX/Effects/NewAudios/walking-through-grass-1.wav.meta
+Assets/VFX/Effects/NewAudios/walking-through-grass-2.wav
+Assets/VFX/Effects/NewAudios/walking-through-grass-2.wav.meta
+Assets/VFX/Effects/NewAudios/walking-through-grass-3.wav
+Assets/VFX/Effects/NewAudios/walking-through-grass-3.wav.meta
+Assets/VFX/Effects/NewAudios/walking-through-grass-4.wav
+Assets/VFX/Effects/NewAudios/walking-through-grass-4.wav.meta
+Assets/VFX/Effects/night-forest-soundscape-158701.mp3
+Assets/VFX/Effects/night-forest-soundscape-158701.mp3.meta
+Assets/VFX/Effects/open-the-door.mp3
+Assets/VFX/Effects/open-the-door.mp3.meta
+Assets/VFX/Effects/OpenDoor.mp3
+Assets/VFX/Effects/OpenDoor.mp3.meta
+Assets/VFX/Effects/Outro.wav
+Assets/VFX/Effects/Outro.wav.meta
+Assets/VFX/Effects/PaolaOn.wav
+Assets/VFX/Effects/PaolaOn.wav.meta
+Assets/VFX/Effects/PaolaRadio.wav
+Assets/VFX/Effects/PaolaRadio.wav.meta
+Assets/VFX/Effects/ParentRoar.mp3
+Assets/VFX/Effects/ParentRoar.mp3.meta
+Assets/VFX/Effects/ParentStart.mp3
+Assets/VFX/Effects/ParentStart.mp3.meta
+Assets/VFX/Effects/Pick.mp3
+Assets/VFX/Effects/Pick.mp3.meta
+Assets/VFX/Effects/RATATATA (mp3cut.net).mp3
+Assets/VFX/Effects/RATATATA (mp3cut.net).mp3.meta
+Assets/VFX/Effects/RugidoHunter.mp3
+Assets/VFX/Effects/RugidoHunter.mp3.meta
+Assets/VFX/Effects/RugidoHunter1.mp3
+Assets/VFX/Effects/RugidoHunter1.mp3.meta
+Assets/VFX/Effects/running-on-concrete-268478.mp3
+Assets/VFX/Effects/running-on-concrete-268478.mp3.meta
+Assets/VFX/Effects/saveSettings.mp3
+Assets/VFX/Effects/saveSettings.mp3.meta
+Assets/VFX/Effects/ScapeParents.mp3
+Assets/VFX/Effects/ScapeParents.mp3.meta
+Assets/VFX/Effects/ScreamShy.mp3
+Assets/VFX/Effects/ScreamShy.mp3.meta
+Assets/VFX/Effects/SecuenciaGodFinal.wav
+Assets/VFX/Effects/SecuenciaGodFinal.wav.meta
+Assets/VFX/Effects/ShyRun.mp3
+Assets/VFX/Effects/ShyRun.mp3.meta
+Assets/VFX/Effects/StartSequence.mp3
+Assets/VFX/Effects/StartSequence.mp3.meta
+Assets/VFX/Effects/Static.mp3
+Assets/VFX/Effects/Static.mp3.meta
+Assets/VFX/Effects/TankStep1.mp3
+Assets/VFX/Effects/TankStep1.mp3.meta
+Assets/VFX/Effects/TankStep2.mp3
+Assets/VFX/Effects/TankStep2.mp3.meta
+Assets/VFX/Effects/walking-on-concrete-ver-2-268513.mp3
+Assets/VFX/Effects/walking-on-concrete-ver-2-268513.mp3.meta
+Assets/VFX/Effects/wind-and-mosquito-7714 1.mp3
+Assets/VFX/Effects/wind-and-mosquito-7714 1.mp3.meta
+Assets/VFX/Effects/wind-and-mosquito-7714.mp3
+Assets/VFX/Effects/wind-and-mosquito-7714.mp3.meta
+Assets/VFX/Effects/windy-forest-32853 1.mp3
+Assets/VFX/Effects/windy-forest-32853 1.mp3.meta
+Assets/VFX/Effects/windy-forest-32853.mp3
+Assets/VFX/Effects/windy-forest-32853.mp3.meta
+Assets/VFX/Effects/zombie-breathing-70682.mp3
+Assets/VFX/Effects/zombie-breathing-70682.mp3.meta
+Assets/VFX/FullScreen_Mat.mat
+Assets/VFX/FullScreen_Mat.mat.meta
+Assets/VFX/FullScreenShader.shadergraph
+Assets/VFX/FullScreenShader.shadergraph.meta
+Assets/VFX/MainMixer.mixer
+Assets/VFX/MainMixer.mixer.meta
+Assets/VFX/ParticleAtraction.vfx
+Assets/VFX/ParticleAtraction.vfx.meta
+Assets/VFX/Sparkle.png
+Assets/VFX/Sparkle.png.meta
+Assets/VFX/unnamed_project_voronoi2.png
+Assets/VFX/unnamed_project_voronoi2.png.meta
+Assets/VideoAnim.meta
+Assets/VideoAnim/Outro.mp4
+Assets/VideoAnim/Outro.mp4.meta
+Assets/VideoAnim/Pantalla Negra 30 segundos.mp4
+Assets/VideoAnim/Pantalla Negra 30 segundos.mp4.meta
+Assets/VideoAnim/VideoStart.renderTexture
+Assets/VideoAnim/VideoStart.renderTexture.meta
+Assets/Yarnspinner.meta
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/HDRPProjectSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/LocalizationSettings.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/MultiplayerManager.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/Packages/dev.yarnspinner/YarnSpinnerProjectSettings.json
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/ScriptableBuildPipeline.json
+ProjectSettings/ShaderGraphSettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimelineSettings.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/URPProjectSettings.asset
+ProjectSettings/VersionControlSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/XRSettings.asset
+README.md
+UpgradeLog.htm

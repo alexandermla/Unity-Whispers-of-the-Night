@@ -1,0 +1,1613 @@
+﻿<Project ToolsVersion="Current">
+  <!-- Generated file, do not modify, your changes will be overwritten (use AssetPostprocessor.OnGeneratedCSProject) -->
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>Temp\obj\$(Configuration)\$(MSBuildProjectName)</BaseIntermediateOutputPath>
+    <IntermediateOutputPath>$(BaseIntermediateOutputPath)</IntermediateOutputPath>
+  </PropertyGroup>
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
+  <ItemGroup>
+    <ProjectCapability Include="Unity" />
+  </ItemGroup>
+  <PropertyGroup>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <EnableDefaultItems>false</EnableDefaultItems>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <LangVersion>9.0</LangVersion>
+    <Configurations>Debug;Release</Configurations>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <RootNamespace></RootNamespace>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Unity.RenderPipelines.HighDefinition.Editor</AssemblyName>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <BaseDirectory>.</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>UNITY_6000_0_27;UNITY_6000_0;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_AMD;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_USES_EXPLICIT_MEMORY_MANAGER_INITIALIZER;PLATFORM_SUPPORTS_WAIT_FOR_PRESENTATION;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;UNITY_POST_PROCESSING_STACK_V2;CINEMACHINE;UNITY_PIPELINE_HDRP;HDRP_1_OR_NEWER;ENABLE_NVIDIA_MODULE;ENABLE_AMD_MODULE;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_EDITOR_ONLY_COMPILATION</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169;USG0001</NoWarn>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169;USG0001</NoWarn>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoStandardLibraries>true</NoStandardLibraries>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <DisableImplicitFrameworkReferences>true</DisableImplicitFrameworkReferences>
+    <MSBuildWarningsAsMessages>MSB3277</MSBuildWarningsAsMessages>
+  </PropertyGroup>
+  <PropertyGroup>
+    <UnityProjectGenerator>Package</UnityProjectGenerator>
+    <UnityProjectGeneratorVersion>2.0.22</UnityProjectGeneratorVersion>
+    <UnityProjectGeneratorStyle>SDK</UnityProjectGeneratorStyle>
+    <UnityProjectType>Editor:5</UnityProjectType>
+    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
+    <UnityVersion>6000.0.27f1</UnityVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Analyzer Include="C:\Users\Jasson Lopez\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.2\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
+    <Analyzer Include="C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
+    <Analyzer Include="C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\ThreeDSMaterialDescriptionPostprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\LightUnit\HDLightUnitSliderUIDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\VolumetricLighting\LocalVolumetricFogUI.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\StackLit\ShaderGraph\StackLitSurfaceOptionPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\FogVolume\FogVolumePropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDStructFields.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\HDLightEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Unlit\UnlitsToHDUnlitUpgrader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedLowResTransparencySettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\DiffusionProfile\DiffusionProfileMaterialUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Canvas\ShaderGraph\HDCanvasSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\StackLit\ShaderGraph\StackLitSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PropertyDrawers\CustomPostProcessVolumeComponentListPropertyDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\ShaderGraph\DecalShaderGraphGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\VignetteEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedVirtualTexturingSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\UnlitSurfaceInputsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterSurfaceMenuItems.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\IrisOffset.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\MaterialPostProcessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDEditorCLI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXLitCubeOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\Volume\InfluenceVolumeUI.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\UnpackData_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\SerializedCompositionManager.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\VolumetricClouds\WorleyfBmGenerator.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Raytracing\LightClusterEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Unlit\ShaderGraph\HDUnlitSubTarget.Migration.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\VolumetricLighting\LocalVolumetricFogUI.Drawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\EyeSubTarget.Migration.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedGlobalLightLoopSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\EyeData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXDistortionPlanarPrimitiveOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDAssetFactory.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\IrisUVLocation.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.PresetInspector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Unlit\ShaderGraph\HDUnlitSurfaceOptionPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\ChromaticAberrationEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Shadow\MicroShadowingEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Lit\ShaderGraph\HDLitSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Core\HDRenderPipelinePreferencesProvider.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\RenderingLayerMaskPropertyDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\FrameSettingsUI.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\HDLightExplorerExtension.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\BuildProcessors\HDRPBuildData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Hair\ShaderGraph\HairData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Wizard\HDWizard.Configuration.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\DistortionUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\AxF\AxFGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Unlit\ShaderGraph\HDUnlitData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\PackVertexData_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDAdditionalMeshRendererSettingsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\ScleraUVLocation.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\Volume\SerializedProxyVolume.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Hair\ShaderGraph\HairSubTarget.Migration.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\SerializedCompositionLayer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\DecalSurfaceInputsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Canvas\ShaderGraph\HDCanvasData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDProbeUI.Handles.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\ShaderGraph\CreateDecalShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Fabric\ShaderGraph\FabricData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Wizard\HDWizard.UserSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\ComputeVertexPosition_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\ReflectionMenuItem.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\CustomPass\CustomPassVolumeEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Fabric\ShaderGraph\FabricSurfaceOptionPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Legacy\StackLitMasterNode1.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\HlslDerivatives\HlslTokenizer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\HDIESImporter.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\DiffusionProfilePropertyDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Raytracing\RecursiveRenderingEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\ShaderGraph\DecalData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\ExposureEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDPropertiesHeader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.PhysicalCamera.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\HlslDerivatives\PartialDerivUtilWriter.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PropertyDrawers\LookDevVolumeProfileSettingsPropertyDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedPostProcessingQualitySettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Fullscreen\ShaderGraph\CreateHDFullscreenShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\DiffusionProfile\SerializedDiffusionProfileSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.Rendering.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\TargetData\LightingData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterSurface\WaterSurfaceEditor.Miscellaneous.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\VolumetricLighting\VolumetricMenuItem.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\CustomPass\CustomPassListSearchWindow.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\TonemappingEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterSurface\WaterSurfaceEditor.Simulation.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\LineRendering\HDShaderPasses.LineRendering.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\VolumetricClouds\VolumetricCloudsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXAbstractDistortionOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\CompositionManagerEditor.Styles.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\TargetData\HDTargetData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterSystemResourcesStripper.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Nodes\RayTracingQualityNode.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Unlit\ShaderGraph\HDUnlitGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Sky\HDLightingWindowEnvironmentSection.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\CreateWaterShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXDecalHDRPOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\WaterSurfaceOptionPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Wizard\HDWizard.UIElement.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXVolumetricFogOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\BuildProcessors\ShaderStrippers\HDRPDisabledComputeShaderVariantStripper.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\BuildProcessors\HDRPPreprocessShaders.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\CubeLutImporter.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\DecalMenuItems.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\FogVolume\ShaderGraph\FogVolumeUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\LiftGammaGainEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\Volume\InfluenceVolumeUI.Gizmos.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\ContextualMenuDispatcher.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PropertyDrawers\RenderingPathFrameSettingsPropertyDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\BaseUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Shadow\HDShadowSettingsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\LightUnit\HDPiecewiseLightUnitSlider.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDRenderPipelineMenuItems.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\LightmappingHDRP.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\ShaderGraph\DecalPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Nodes\DiffusionProfileNode.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Raytracing\GlobalIlluminationEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\DiffusionProfile\DiffusionProfileSettingsEditor.Styles.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedXRSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Sky\SkySettingsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\BuiltinCorneaIOR.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\ShaderGraphMaterialsUpdater.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\HDLightUI.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Nature\HDSpeedTree8MaterialUpgrader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\PluginMaterialVersions.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\DistortionPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDShaderUtils.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDProbeUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedHDShadowInitParameters.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\ShaderGraph\DecalSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDProbeUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\HlslDerivatives\HlslUtil.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RayTracing\SolidAngleKernelGenerator.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Utility\VFXHDRPSettingsUtility.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\EvaluateScatteringColor_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\TrackballUIDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\FrameSettingsUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\FogVolume\ShaderGraph\CreateFogVolumeShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDAdditionalMeshRendererSettingsUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\SketchupMaterialDescriptionPostprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\SixWayLit\ShaderGraph\HDSixWaySubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Fabric\ShaderGraph\CreateFabricShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\LitSurfaceInputsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Sky\AtmosphericScattering\FogEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\SixWayUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\MaterialUIBlockList.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\EyeSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\Volume\SerializedReflectionProxyVolumeComponent.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\StackLit\ShaderGraph\StackLitSubTarget.Migration.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\CompositionUtils.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXLitPlanarPrimitiveOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\DecalProjectorEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\LTCAreaLight\LTCTableGenerator.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\LayersUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\TransparencyUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\SeriallizedShaderProperty.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDRenderPipelineUI.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Nodes\EmissionNode.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\DiffusionProfileSettingsListUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDProbeEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterDecal\WaterDecalShaderGraphGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\SubTargetPropertiesGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\ShaderPropertyUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterSurface\WaterSurfaceEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\Volume\InfluenceVolumeUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Slots\DiffusionProfileInputMaterialSlot.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDLightUtils.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PropertyDrawers\CustomPostProcessOrdersSettingsPropertyDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Nodes\HDSampleBufferNode.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\DecalProjectorEditor.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Nodes\HDSceneColorNode.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.Output.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.cinemachine\Editor\Samples\ExposeHDRPInternals\MaterialUpgradeHelper.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\BuiltinIrisPlaneOffset.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Fabric\ShaderGraph\FabricSubTarget.Migration.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\HDLightUI.Handles.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Fullscreen\ShaderGraph\HDFullscreenSubtarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\WaterData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\SixWayLit\ShaderGraph\HDSixWayData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\ScreenSpaceLensFlareEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\HDLightUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PropertyDrawers\FrameSettingsPropertyDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDRenderPipelineUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Legacy\DecalMasterNode1.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\LayeringOptionsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\VFXHDRPBinder.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\CustomPass\FullScreenCustomPassDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\EyeSurfaceOptionPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\StackLit\ShaderGraph\StackLitAdvancedOptionsPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\SurfaceOptionUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\SerializedProbeSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Legacy\HDUnlitMasterNode1.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\FogVolume\ShaderGraph\FogVolumeSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Fullscreen\ShaderGraph\HDFullscreenData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Analytics\AssetReimporterAnalytic.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\HDAnalytics.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\WaterSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssemblyInfo.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedScalableSetting.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\CirclePupilAnimation.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Upgraders\UpgradeStandardShaderMaterials.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Nodes\CustomPassNodes.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDEditorUtils.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\HlslDerivatives\HlslProcessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\RefractionUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Hair\ShaderGraph\HairPropertyBlocks.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterSurface\WaterSurfaceEditor.Appearance.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\AdvancedOptionsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\VolumetricClouds\VolumetricCloudsResourcesStripper.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Slots\DefaultMaterialSlot.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Lit\LitShaderPreprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\CustomPass\CustomPassVolumeGizmoDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDShaderPasses.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\QualitySettingsPanel.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\WaterDecalSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\DiffusionProfile\DiffusionProfileSettingsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedFrameSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\SerializedGlobalPostProcessSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\FogVolume\FogVolumeShaderGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\Volume\SerializedInfluenceVolume.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Unlit\ShaderGraph\CreateHDUnlitShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\SerializedHDLight.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\TessellationOptionsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\ScreenSpaceAmbientOcclusionEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\HlslDerivatives\HlslTree.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXLitSphereOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\DiffusionProfileShaderProperty.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Legacy\FabricMasterNode1.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\CreateEyeShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\CustomPostProcessVolumeComponentEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\EvaluateRefractionData_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedGlobalDecalSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\EmissionUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\DetailInputsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\LayerListUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\BuiltinIrisRadius.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\SubTargetPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\CompositorWindow.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\EvaluateSimulationAdditionalData_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\NormalMapFilteringTexturePostprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\VolumetricLighting\LocalVolumetricFogEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraEditor.Handlers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\EyeSurfaceTypeDebug.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\CustomPass\CustomPassDrawerAttribute.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.EnvironmentSkin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\SixWayLit\ShaderGraph\SixWaySurfaceOptionPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\DiffusionProfileMaterialPropertyDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\SerializedCameraSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\HlslDerivatives\HlslGenerator.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\UIBlocks\VFXShaderGraphGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\ScreenSpaceRefractionEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\PlanarReflectionProbeEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Sky\HDRISky\HDRISkyEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.ContextualMenu.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterRenderingEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDReflectionProbeEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\TerrainLit\StandardsTerrainToHDTerrainLitUpgrader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\SixWayLit\ShaderGraph\CreateSixWayShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\ShadowsMidtonesHighlightsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\SerializedPlanarReflectionProbe.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Nodes\HDSceneDepthNode.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\ColorCurvesEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\HDLightUI.ContextualMenu.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDBakedReflectionSystem.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\LightingSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\AdditionalShadowDataEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\BuildProcessors\ShaderStrippers\HDRPShaderVariantStripper.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\ShaderGraphUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXAbstractParticleHDRPLitOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\LayeredLit\LayeredLitGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Raytracing\RayTracingShaderPreprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\PassDescriptorExtension.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\IUpdateable.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Legacy\HairMasterNode1.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\ShaderGraph\DecalSubTarget.Migration.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraPreview.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\Volume\InfluenceVolumeUI.Handles.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Fabric\ShaderGraph\FabricSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\IrisLimbalRing.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\BuildProcessors\SettingsStrippers\HDRPRayTracingResourcesStripper.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\HDRenderPipelineGlobalSettingsPostprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\FrameSettingsExtractedDatas.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\Volume\InfluenceVolumeUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Unlit\ShaderGraph\UnlitShaderGraphGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Nodes\FresnelEquationNode.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedScalableSettingValue.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\TargetMidGrayParameterDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\CameraSettingsUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\MotionBlurEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\CustomPass\DrawRenderersCustomPassDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipelineResources\HDProjectSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Raytracing\SubSurfaceScatteringEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\FBXArnoldSurfaceMaterialDescriptionPreprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\TargetData\BuiltinData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDReflectionProbeEditor.ProbeUtility.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDAdditionalCameraEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterDecal\WaterDecalSurfaceOptionsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\DepthOfFieldEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\SurfaceSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Hair\ShaderGraph\HairSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterSurface\VFX\SampleWaterSurface.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\VolumetricLighting\SerializedLocalVolumetricFog.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterDecal\WaterDecalEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\LightingShaderGraphGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\EvaluateFoamData_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedHDRenderPipelineAsset.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\LitShaderGraphGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Hair\ShaderGraph\CreateHairShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\TerrainLit\TerrainLitGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\SurfaceOptionPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\EvaluateSimulationCaustics_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXLitQuadStripOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\HDRenderPipelineEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\HDRenderingLayersLimitSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterSurface\WaterSurfaceEditor.Tooltips.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\ModelPostProcessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PackageInfo.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\DecalSurfaceOptionsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Lit\ShaderGraph\LitSurfaceOptionPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Raytracing\RayTracingSettingsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDMetadata.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\PaniniProjectionEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Lit\LitGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Wizard\HDWizard.ProjectSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.Environment.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\PhysicalMaterial3DsMaxPreprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Nodes\ExposureNode.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Nodes\SurfaceGradientResolveNormal.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\IrisOutOfBoundColorClamp.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\CompositionManagerEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Wizard\HDWizard.Window.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\LineRendering\HDRenderPipeline.LineRendering.VolumeComponentEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\BuildProcessors\HDRPBuildDataValidator.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\FilmGrainEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\HDIESImporterEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\PathTracing\PathTracingEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\AutodeskInteractiveMaterialImport.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\Volume\ReflectionProxyVolumeComponentEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\BuildProcessors\ShaderStrippers\HDRPComputeShaderVariantStripper.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\LTCAreaLight\NelderMead.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDFields.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterSurface\WaterSurfaceEditor.Decal.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Lit\ShaderGraph\CreateHDLitShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\SerializedHDCamera.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Sky\CloudSystem\CloudLayer\CloudLayerEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\ProbeSettingsUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterExcluder\WaterExcluderEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Core\TextureCombiner\TextureCombiner.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Sky\GradientSky\GradientSkyEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Sky\PhysicallyBasedSky\PhysicallyBasedSkyEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\GetCameraHeightFromWater.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PostProcessing\BloomEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\FogVolume\ShaderGraph\FogVolumeData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\HlslDerivatives\ShaderTokenUtil.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\DisplacableRectHandles.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\LTCAreaLight\LTCTableGeneratorEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Unlit\ShaderGraph\HDUnlitSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDStructs.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.PhysicalCamera.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\ProjectedTransform.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDReflectionProbeEditor.Gizmos.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\TargetData\SystemData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\HDAdditionalLightDataEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\BuildProcessors\HDRPPreprocessBuild.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Nature\HDSpeedTree9MaterialUpgrader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\EvaluateDisplacement_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\VirtualTexturingSettingsUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Lit\ShaderGraph\HDLitData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedLightingQualitySettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDAdditionalReflectionDataEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\StackLit\ShaderGraph\CreateStackLitShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Legacy\EyeMasterNode1.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Canvas\ShaderGraph\CreateHDCanvasShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\LTCAreaLight\LTC.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\SerializedHDProbe.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\SixWayLit\SixWayGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\IndirectLightingControllerEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\AxfSurfaceInputsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedDynamicResolutionSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\StackLit\ShaderGraph\StackLitData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Lit\StandardsToHDLitMaterialUpgrader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\VFXHDRPSubOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\ShaderGraphVersion.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\VolumeComponentWithQualityEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\ScalableSettingLevelParameterEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Unlit\ShaderGraph\HDUnlitDistortionPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedRenderPipelineSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Views\DiffusionProfileSlotControlView.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\CustomPass\ObjectIDCustomPassDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Sky\VisualEnvironmentEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDBlockFields.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Water\WaterSurface\WaterSurfaceEditor.Foam.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Unlit\UnlitGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXLitMeshOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\MaterialUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\SerializedCompositionFilter.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\EvaluateTipThickness_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\Node\BlendNormal_Water.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\Volume\ProxyVolumeUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.Rendering.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDProbeUI.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\AxfMainSurfaceInputsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\Legacy\HDLitMasterNode1.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\SceneTemplates\HDRPBasicScenePipeline.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\RenderPipelineSettingsUtilities.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\AdvancedOptionsPropertyBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Camera\HDCameraUI.Output.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\HDShaderGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXDistortionMeshOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\FBXMaterialDescriptionPostprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\AssetProcessors\AssetVersion.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\HlslDerivatives\HlslParser.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\IPluginSubTargetMaterialUtils.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Water\ShaderGraph\WaterSubTarget.Migration.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Tools\ColorCheckerToolEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXAbstractParticleHDRPOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RayTracing\ReflectionKernelGenerator.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\ScleraIrisBlend.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\PBRSky\ShaderGraph\PBRSkySubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\CorneaRefraction.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\CompositionLayerUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\HlslDerivatives\HlslUnityReserved.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\HDLightUI.PresetInspector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\UIBlocks\DecalSortingInputsUIBlock.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDShaderKernels.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Compositor\CompositionFilterUI.Drawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Decal\DecalUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\DiffusionProfileListEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Lit\ShaderGraph\HDLitSubTarget.Migration.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\PropertyDrawers\HDRPDefaultVolumeProfileSettingsPropertyDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDReflectionProbeEditor.Preview.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Sky\StaticLightingSkyEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\Eye\ShaderGraph\Node\ScleraLimbalRing.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\CustomPass\CustomPassDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\ShaderGraph\HDSubShaderUtilities.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Material\BaseShaderPreprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\VFXGraph\Outputs\VFXDistortionQuadStripOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\RenderPipeline\Settings\SerializedGPUResidentDrawerSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\HDScreenSpaceReflectionEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Reflection\SerializedHDReflectionProbe.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.high-definition\Editor\Lighting\Shadow\ContactShadowsEditor.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Library\PackageCache\com.unity.cinemachine\Editor\Samples\ExposeHDRPInternals\HDRP-Editor-ref.asmref" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AMDModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AMDModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AndroidJNIModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AndroidJNIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ContentLoadModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ContentLoadModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.DSPGraphModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.DSPGraphModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.GIModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.GIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.GraphicsStateCollectionSerializerModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.GraphicsStateCollectionSerializerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.HierarchyCoreModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.HierarchyCoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputForUIModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputForUIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputLegacyModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.LocalizationModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.MarshallingModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.MarshallingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.MultiplayerModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.MultiplayerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.NVIDIAModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.NVIDIAModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.PropertiesModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.PropertiesModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ShaderVariantAnalyticsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ShaderVariantAnalyticsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.StreamingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SubsystemsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubsystemsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TLSModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreFontEngineModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreTextEngineModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UmbraModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsCommonModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityConnectModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityCurlModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityCurlModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VFXModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.VFXModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VehiclesModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VirtualTexturingModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.WindModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.AccessibilityModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.AccessibilityModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.AdaptivePerformanceModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.AdaptivePerformanceModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.BuildProfileModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.BuildProfileModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.CoreBusinessMetricsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.CoreBusinessMetricsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.CoreModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.DeviceSimulatorModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.DeviceSimulatorModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.DiagnosticsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.DiagnosticsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.EditorToolbarModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.EditorToolbarModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.EmbreeModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.EmbreeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.GIModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.GIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.GraphViewModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.GraphViewModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.GraphicsStateCollectionSerializerModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.GraphicsStateCollectionSerializerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.GridAndSnapModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.GridAndSnapModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.GridModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.GridModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.MultiplayerModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.MultiplayerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.Physics2DModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.Physics2DModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.PhysicsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.PhysicsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.PresetsUIModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.PresetsUIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.PropertiesModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.PropertiesModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.QuickSearchModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.QuickSearchModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SafeModeModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.SafeModeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SceneTemplateModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.SceneTemplateModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SceneViewModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.SceneViewModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.ShaderFoundryModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.ShaderFoundryModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SketchUpModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.SketchUpModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SpriteMaskModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.SpriteMaskModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SpriteShapeModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.SpriteShapeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SubstanceModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.SubstanceModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TerrainModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.TerrainModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TextCoreFontEngineModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.TextCoreFontEngineModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TextCoreTextEngineModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.TextCoreTextEngineModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TextRenderingModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.TextRenderingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TilemapModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.TilemapModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TreeModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.TreeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UIAutomationModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIAutomationModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UIBuilderModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIBuilderModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsSamplesModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsSamplesModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UmbraModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.UmbraModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UnityConnectModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.VFXModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.VFXModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.VideoModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.VideoModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.XRModule">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.XRModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.Graphs">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.YamlDotNet">
+      <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>Library\PackageCache\com.unity.collections\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>Library\PackageCache\com.unity.ext.nunit\net40\unity-custom\nunit.framework.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="unityplastic">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\unityplastic.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Plastic.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Plastic.Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="log4netPlastic">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\log4netPlastic.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.IonicZip">
+      <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json\Runtime\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.TextureAssets">
+      <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Runtime.Serialization.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Xml.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Xml.Linq.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Numerics">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Numerics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Numerics.Vectors.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Net.Http.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.IO.Compression.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Microsoft.CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Data.DataSetExtensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Drawing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.IO.Compression.FileSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.ComponentModel.Composition.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Transactions">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.Transactions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\Microsoft.Win32.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="netstandard">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\netstandard.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.AppContext">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.AppContext.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Buffers">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Buffers.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Collections.Concurrent">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Collections.Concurrent.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Collections">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Collections.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Collections.NonGeneric">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Collections.NonGeneric.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Collections.Specialized">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Collections.Specialized.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ComponentModel.Annotations.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ComponentModel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.EventBasedAsync">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ComponentModel.EventBasedAsync.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Primitives">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ComponentModel.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.TypeConverter">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ComponentModel.TypeConverter.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Console">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Console.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.Common">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Data.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.Contracts">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Diagnostics.Contracts.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.Debug">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Diagnostics.Debug.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.FileVersionInfo">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Diagnostics.FileVersionInfo.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.Process">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Diagnostics.Process.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.StackTrace">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Diagnostics.StackTrace.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.TextWriterTraceListener">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Diagnostics.TextWriterTraceListener.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tools">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Diagnostics.Tools.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Diagnostics.TraceSource.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing.Primitives">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Drawing.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Dynamic.Runtime">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Dynamic.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Globalization.Calendars.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Globalization">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Globalization.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Globalization.Extensions">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Globalization.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression.ZipFile">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.IO.Compression.ZipFile.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.IO.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.IO.FileSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.DriveInfo">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.IO.FileSystem.DriveInfo.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Watcher">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.IO.FileSystem.Watcher.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.IsolatedStorage">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.IO.IsolatedStorage.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.MemoryMappedFiles">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.IO.MemoryMappedFiles.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.Pipes">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.IO.Pipes.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.UnmanagedMemoryStream">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.IO.UnmanagedMemoryStream.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Linq">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Linq.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Linq.Expressions">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Linq.Expressions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Linq.Parallel">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Linq.Parallel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Linq.Queryable">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Linq.Queryable.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Memory.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Rtc">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.Http.Rtc.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.NameResolution">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.NameResolution.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.NetworkInformation">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.NetworkInformation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Ping">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.Ping.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Primitives">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Requests">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.Requests.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Security">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.Security.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Sockets">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.Sockets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.WebHeaderCollection">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.WebHeaderCollection.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.WebSockets.Client">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.WebSockets.Client.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.WebSockets">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Net.WebSockets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ObjectModel">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ObjectModel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.DispatchProxy">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Reflection.DispatchProxy.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Reflection.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.Emit">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Reflection.Emit.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.ILGeneration">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Reflection.Emit.ILGeneration.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.Lightweight">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Reflection.Emit.Lightweight.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.Extensions">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Reflection.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.Primitives">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Reflection.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Resources.Reader">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Resources.Reader.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Resources.ResourceManager">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Resources.ResourceManager.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Resources.Writer">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Resources.Writer.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.VisualC">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.CompilerServices.VisualC.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Handles">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.Handles.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.InteropServices.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.WindowsRuntime">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Numerics">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.Numerics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.Serialization.Formatters.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Json">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.Serialization.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Primitives">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.Serialization.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Xml">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.Serialization.Xml.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Claims">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Security.Claims.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Csp">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Security.Cryptography.Csp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Principal">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Security.Principal.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.SecureString">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Security.SecureString.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ServiceModel.Duplex">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ServiceModel.Duplex.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ServiceModel.Http">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ServiceModel.Http.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ServiceModel.NetTcp">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ServiceModel.NetTcp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ServiceModel.Primitives">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ServiceModel.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ServiceModel.Security">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ServiceModel.Security.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Text.Encoding">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Text.Encoding.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Text.Encoding.Extensions">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Text.Encoding.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Text.RegularExpressions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Threading.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Overlapped">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Threading.Overlapped.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Threading.Tasks.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Threading.Tasks.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Parallel">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Threading.Tasks.Parallel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Thread">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Threading.Thread.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Threading.ThreadPool.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Timer">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Threading.Timer.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.ValueTuple.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.ReaderWriter">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.ReaderWriter.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.XDocument">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XDocument.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.XmlDocument">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XmlDocument.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.XmlSerializer">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XmlSerializer.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.XPath">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.XPath.XDocument">
+      <HintPath>C:\Users\Jasson Lopez\Desktop\Backup\6000.0.27f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime.Shared">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.GPUDriven.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Unity.Mathematics.csproj" />
+    <ProjectReference Include="UnityEngine.TestRunner.csproj" />
+    <ProjectReference Include="UnityEditor.TestRunner.csproj" />
+  </ItemGroup>
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
+  <ItemGroup>
+    <ProjectCapability Remove="LaunchProfiles" />
+    <ProjectCapability Remove="SharedProjectReferences" />
+    <ProjectCapability Remove="ReferenceManagerSharedProjects" />
+    <ProjectCapability Remove="ProjectReferences" />
+    <ProjectCapability Remove="ReferenceManagerProjects" />
+    <ProjectCapability Remove="COMReferences" />
+    <ProjectCapability Remove="ReferenceManagerCOM" />
+    <ProjectCapability Remove="AssemblyReferences" />
+    <ProjectCapability Remove="ReferenceManagerAssemblies" />
+  </ItemGroup>
+</Project>
