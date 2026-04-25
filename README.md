@@ -1,6 +1,6 @@
 # Whispers of the Night
 
-![Gameplay Screenshot](<img width="3213" height="1902" alt="IMG_0539" src="https://github.com/user-attachments/assets/6f61a69b-d7fa-46d6-8bcf-33bec302d496" />)
+<img width="3213" height="1902" alt="IMG_0539" src="https://github.com/user-attachments/assets/6f61a69b-d7fa-46d6-8bcf-33bec302d496" />
 
 A stealth-puzzle horror game built in Unity where Timmy, a 12-year-old boy, 
 must navigate a darkness-consumed village armed only with his night lamp 
